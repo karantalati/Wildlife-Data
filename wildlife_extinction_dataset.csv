@@ -1,0 +1,2001 @@
+year,place,no_of_tigers,poaching_recorded,birth_recorded,death_recorded
+1999,Sundarbans National Park,56,30,8,7
+2019,Periyar National Park,74,29,19,16
+2004,Kanha National Park,94,74,12,4
+1993,Bandipur National Park,41,30,8,1
+1990,Kanha National Park,67,51,14,2
+1999,Mudumalai National Park,43,36,7,0
+1999,Kaziranga National Park,88,8,39,17
+1999,Dudhwa National Park,92,11,2,37
+2012,Panna National Park,50,41,3,5
+2020,Sariska Tiger Reserve,46,21,19,5
+2016,Sundarbans National Park,84,53,26,2
+1999,Dudhwa National Park,42,17,5,15
+2009,Kanha National Park,13,13,0,0
+1998,Bandhavgarh National Park,27,25,2,0
+2004,Kaziranga National Park,3,2,1,0
+2015,Pench National Park,21,10,10,1
+2018,Mudumalai National Park,4,1,3,0
+2014,Kaziranga National Park,28,11,5,1
+2009,Kanha National Park,46,14,31,1
+1985,Periyar National Park,80,25,33,13
+1995,Ranthambore National Park,95,4,25,57
+2007,Satpura National Park,33,30,3,0
+1996,Pench National Park,79,29,49,1
+2018,Sariska Tiger Reserve,8,2,5,1
+1989,Tadoba Andhari Tiger Reserve,23,4,10,7
+1985,Dudhwa National Park,4,3,1,0
+2004,Sundarbans National Park,66,4,39,10
+2020,Panna National Park,99,36,42,14
+2002,Panna National Park,22,9,4,9
+2010,Jim Corbett National Park,66,66,0,0
+2005,Bandipur National Park,80,38,10,32
+2014,Mudumalai National Park,66,51,8,1
+2000,Kanha National Park,11,3,6,2
+1990,Dudhwa National Park,6,2,3,1
+1991,Bandipur National Park,40,17,8,5
+2002,Satpura National Park,64,30,32,1
+1989,Sundarbans National Park,31,26,5,0
+2015,Bandhavgarh National Park,86,70,12,3
+2009,Bandipur National Park,60,57,1,1
+1985,Sundarbans National Park,20,14,2,1
+1992,Mudumalai National Park,60,20,4,34
+2015,Periyar National Park,47,2,21,19
+2018,Pench National Park,12,3,1,2
+2004,Periyar National Park,60,38,8,1
+2013,Jim Corbett National Park,1,1,0,0
+1996,Panna National Park,1,1,0,0
+1992,Bandipur National Park,94,91,2,1
+1994,Jim Corbett National Park,7,7,0,0
+1995,Pench National Park,82,44,22,1
+2007,Sundarbans National Park,44,37,6,1
+2000,Sundarbans National Park,52,46,6,0
+2017,Bandhavgarh National Park,68,55,7,3
+1993,Kanha National Park,83,22,6,4
+1987,Kanha National Park,32,2,8,9
+2017,Manas National Park,39,17,12,6
+2007,Satpura National Park,20,17,1,1
+2019,Ranthambore National Park,39,5,29,1
+2007,Panna National Park,37,32,4,1
+1995,Sundarbans National Park,43,4,15,13
+2017,Pench National Park,40,20,3,4
+1989,Pench National Park,86,70,11,1
+2004,Bandhavgarh National Park,17,17,0,0
+2010,Dudhwa National Park,71,38,30,3
+2020,Sundarbans National Park,60,21,7,28
+2000,Manas National Park,84,60,12,9
+2005,Pench National Park,6,2,3,1
+2006,Bandhavgarh National Park,85,20,42,14
+2005,Sundarbans National Park,100,78,2,17
+2019,Pench National Park,7,6,1,0
+1989,Manas National Park,53,9,18,10
+1987,Sundarbans National Park,72,17,13,9
+2008,Ranthambore National Park,37,14,5,15
+2020,Jim Corbett National Park,4,4,0,0
+2007,Panna National Park,51,4,36,8
+2004,Dudhwa National Park,19,16,2,1
+1999,Bandhavgarh National Park,11,1,2,7
+1993,Pench National Park,74,58,2,13
+2010,Periyar National Park,89,19,24,7
+2011,Dudhwa National Park,76,52,3,3
+2001,Bandipur National Park,35,14,15,6
+2016,Kanha National Park,36,19,15,1
+2004,Kanha National Park,17,4,1,2
+1989,Pench National Park,88,38,47,2
+2005,Bandhavgarh National Park,74,70,1,2
+2010,Panna National Park,32,29,3,0
+2006,Dudhwa National Park,99,72,4,1
+2018,Kaziranga National Park,45,11,4,17
+2020,Mudumalai National Park,36,24,8,2
+2000,Kaziranga National Park,11,8,2,1
+1993,Tadoba Andhari Tiger Reserve,83,56,22,4
+2006,Kaziranga National Park,22,14,5,1
+2006,Bandhavgarh National Park,50,18,30,2
+1988,Sariska Tiger Reserve,26,15,8,2
+2003,Tadoba Andhari Tiger Reserve,31,21,5,4
+1994,Sariska Tiger Reserve,1,1,0,0
+2016,Ranthambore National Park,54,8,24,8
+2006,Kanha National Park,79,3,41,29
+2019,Kaziranga National Park,15,12,2,1
+2012,Jim Corbett National Park,13,6,1,6
+2012,Tadoba Andhari Tiger Reserve,16,12,4,0
+1989,Satpura National Park,78,9,10,59
+2007,Periyar National Park,98,86,3,9
+2001,Panna National Park,44,21,21,2
+1992,Kaziranga National Park,46,29,14,2
+2010,Jim Corbett National Park,18,8,8,2
+1993,Sundarbans National Park,15,14,1,0
+2001,Sundarbans National Park,57,27,12,10
+1997,Tadoba Andhari Tiger Reserve,32,8,7,2
+1985,Satpura National Park,7,7,0,0
+1996,Periyar National Park,60,39,4,3
+2016,Bandipur National Park,96,59,8,29
+1993,Kaziranga National Park,52,38,1,11
+2004,Jim Corbett National Park,23,6,6,10
+1988,Periyar National Park,90,36,46,6
+1994,Panna National Park,81,27,53,1
+2002,Pench National Park,53,22,7,2
+1988,Ranthambore National Park,30,8,11,8
+1999,Tadoba Andhari Tiger Reserve,97,89,6,2
+1987,Pench National Park,50,23,7,12
+2009,Mudumalai National Park,31,14,8,7
+2009,Ranthambore National Park,54,18,12,18
+1991,Sariska Tiger Reserve,83,64,9,6
+2011,Ranthambore National Park,39,22,5,4
+1995,Kanha National Park,33,31,1,1
+2001,Periyar National Park,93,80,8,5
+2000,Kaziranga National Park,35,33,2,0
+2015,Tadoba Andhari Tiger Reserve,41,14,8,1
+2008,Tadoba Andhari Tiger Reserve,35,16,11,7
+2018,Mudumalai National Park,27,7,14,2
+2005,Panna National Park,78,50,28,0
+1999,Mudumalai National Park,24,8,13,1
+1986,Panna National Park,71,65,2,3
+1987,Mudumalai National Park,52,11,3,8
+1996,Kaziranga National Park,68,50,8,3
+2002,Satpura National Park,3,2,1,0
+2000,Kaziranga National Park,31,29,2,0
+2020,Kaziranga National Park,60,35,6,4
+2017,Ranthambore National Park,67,65,2,0
+2009,Jim Corbett National Park,88,55,17,16
+2011,Sariska Tiger Reserve,55,52,2,1
+1987,Bandhavgarh National Park,35,12,2,6
+2015,Ranthambore National Park,87,45,34,1
+2010,Ranthambore National Park,81,48,7,15
+2002,Bandipur National Park,20,17,2,1
+2009,Panna National Park,22,8,2,9
+1986,Satpura National Park,2,2,0,0
+2007,Kanha National Park,98,33,47,13
+1994,Tadoba Andhari Tiger Reserve,32,8,22,2
+2001,Sariska Tiger Reserve,24,7,2,2
+2005,Kanha National Park,14,1,3,1
+2005,Kaziranga National Park,96,63,12,17
+2018,Ranthambore National Park,98,15,48,32
+2016,Jim Corbett National Park,15,1,1,7
+1990,Sundarbans National Park,93,2,21,13
+1994,Sariska Tiger Reserve,33,18,8,5
+2007,Panna National Park,80,13,62,5
+2000,Pench National Park,50,40,6,1
+2013,Kaziranga National Park,74,74,0,0
+2008,Mudumalai National Park,90,87,2,1
+1991,Bandhavgarh National Park,89,32,23,14
+2003,Mudumalai National Park,64,43,6,10
+2017,Sariska Tiger Reserve,30,28,1,1
+1999,Tadoba Andhari Tiger Reserve,9,6,1,2
+2007,Mudumalai National Park,63,10,26,21
+1986,Kaziranga National Park,44,4,15,13
+2018,Satpura National Park,38,5,24,5
+1997,Ranthambore National Park,33,13,18,2
+1997,Periyar National Park,55,13,30,3
+1999,Sundarbans National Park,52,16,31,2
+2012,Periyar National Park,83,79,4,0
+1989,Bandipur National Park,21,16,4,1
+2016,Manas National Park,21,10,8,2
+2019,Ranthambore National Park,84,47,24,1
+2016,Pench National Park,35,19,3,4
+1999,Sariska Tiger Reserve,55,26,17,3
+2020,Sariska Tiger Reserve,84,84,0,0
+2011,Satpura National Park,68,8,53,2
+1992,Pench National Park,49,14,25,8
+2007,Jim Corbett National Park,35,19,16,0
+2009,Periyar National Park,57,16,14,12
+1995,Sundarbans National Park,17,6,4,6
+1994,Satpura National Park,20,10,4,3
+2010,Pench National Park,64,13,25,4
+1991,Ranthambore National Park,99,91,7,1
+1998,Panna National Park,33,17,14,2
+1990,Manas National Park,63,49,1,10
+1986,Panna National Park,70,10,20,20
+1999,Mudumalai National Park,10,2,8,0
+1994,Periyar National Park,5,3,2,0
+1995,Bandipur National Park,14,4,4,1
+1997,Periyar National Park,77,35,21,11
+1998,Bandipur National Park,47,31,15,1
+2015,Jim Corbett National Park,4,2,1,1
+1985,Dudhwa National Park,93,79,2,1
+2013,Bandhavgarh National Park,12,12,0,0
+2007,Kaziranga National Park,8,1,2,3
+2004,Bandipur National Park,38,37,1,0
+1999,Satpura National Park,48,16,16,5
+2015,Bandipur National Park,63,43,16,4
+1985,Panna National Park,41,39,1,1
+1997,Ranthambore National Park,5,3,1,1
+1995,Satpura National Park,99,25,59,13
+1998,Dudhwa National Park,39,15,5,18
+1985,Kanha National Park,7,1,2,4
+2000,Kanha National Park,25,13,1,4
+2015,Satpura National Park,35,21,11,1
+2006,Satpura National Park,75,64,3,4
+1986,Satpura National Park,75,16,24,32
+2012,Dudhwa National Park,2,2,0,0
+2016,Pench National Park,97,70,14,1
+2012,Bandipur National Park,55,34,1,14
+2013,Bandhavgarh National Park,96,47,41,3
+2000,Ranthambore National Park,42,38,2,1
+2008,Kanha National Park,50,21,19,7
+2004,Sundarbans National Park,32,31,1,0
+2012,Ranthambore National Park,49,41,5,1
+1985,Ranthambore National Park,28,28,0,0
+2013,Panna National Park,12,8,2,2
+1993,Mudumalai National Park,29,3,9,6
+2016,Ranthambore National Park,81,33,13,32
+1998,Jim Corbett National Park,2,2,0,0
+2005,Bandhavgarh National Park,75,35,23,9
+2008,Panna National Park,95,74,6,3
+1986,Manas National Park,32,10,7,3
+2018,Kanha National Park,22,11,3,8
+2004,Satpura National Park,13,11,1,1
+2018,Kaziranga National Park,58,22,22,9
+1988,Bandipur National Park,59,30,2,9
+1993,Panna National Park,22,20,2,0
+2000,Ranthambore National Park,30,19,4,6
+2015,Pench National Park,88,41,26,12
+2001,Bandipur National Park,81,61,16,1
+1994,Kaziranga National Park,33,11,20,2
+2010,Ranthambore National Park,67,1,6,25
+1996,Tadoba Andhari Tiger Reserve,10,2,5,2
+1987,Kanha National Park,72,62,10,0
+2019,Tadoba Andhari Tiger Reserve,26,16,3,3
+1990,Satpura National Park,65,22,13,4
+2007,Sundarbans National Park,46,20,7,2
+1989,Bandipur National Park,97,53,3,37
+1995,Sundarbans National Park,47,26,18,1
+1986,Bandhavgarh National Park,72,51,13,4
+2019,Tadoba Andhari Tiger Reserve,63,36,27,0
+1993,Mudumalai National Park,61,39,2,12
+2020,Satpura National Park,71,19,33,3
+2004,Kaziranga National Park,55,41,5,1
+1996,Pench National Park,44,35,2,7
+1995,Manas National Park,40,5,16,3
+2019,Bandipur National Park,48,10,5,10
+2018,Manas National Park,71,50,21,0
+1991,Manas National Park,94,26,59,4
+2008,Jim Corbett National Park,22,16,4,2
+2008,Satpura National Park,55,41,1,12
+2003,Satpura National Park,13,1,3,7
+1991,Sariska Tiger Reserve,6,4,1,1
+1998,Dudhwa National Park,62,46,4,6
+1991,Manas National Park,36,33,1,1
+2004,Bandipur National Park,61,31,27,3
+1993,Manas National Park,33,7,26,0
+2019,Ranthambore National Park,41,6,34,1
+2004,Sundarbans National Park,31,6,7,3
+1993,Pench National Park,8,6,1,1
+1988,Ranthambore National Park,14,7,2,3
+1998,Periyar National Park,7,7,0,0
+2002,Satpura National Park,12,3,8,1
+2012,Sundarbans National Park,22,11,1,8
+1990,Jim Corbett National Park,100,73,19,4
+2010,Manas National Park,74,18,46,10
+1985,Sariska Tiger Reserve,12,9,1,1
+1997,Dudhwa National Park,75,2,5,3
+1988,Tadoba Andhari Tiger Reserve,50,30,9,4
+2014,Kanha National Park,69,1,12,41
+2016,Sariska Tiger Reserve,48,47,1,0
+1992,Sariska Tiger Reserve,50,20,20,7
+2013,Kaziranga National Park,39,15,21,1
+2012,Manas National Park,6,4,1,1
+1996,Sundarbans National Park,62,59,2,1
+1988,Kanha National Park,3,2,1,0
+2001,Bandhavgarh National Park,62,62,0,0
+2005,Bandipur National Park,25,19,1,2
+2014,Pench National Park,45,37,7,1
+2007,Mudumalai National Park,62,50,10,1
+1996,Bandhavgarh National Park,54,11,20,12
+2018,Pench National Park,69,37,7,12
+2009,Bandhavgarh National Park,20,17,3,0
+1990,Mudumalai National Park,93,17,18,17
+2016,Bandipur National Park,88,72,15,1
+1986,Jim Corbett National Park,87,47,22,10
+1985,Mudumalai National Park,28,11,15,1
+1987,Sundarbans National Park,23,9,4,4
+2018,Ranthambore National Park,18,10,4,1
+2005,Bandipur National Park,39,15,19,3
+2017,Manas National Park,24,8,1,4
+2003,Sariska Tiger Reserve,70,44,11,13
+1988,Bandhavgarh National Park,86,53,11,10
+1998,Mudumalai National Park,37,2,11,19
+2016,Dudhwa National Park,89,80,2,4
+2000,Pench National Park,91,91,0,0
+1998,Panna National Park,40,19,2,1
+2008,Ranthambore National Park,89,13,61,10
+2005,Dudhwa National Park,96,20,65,3
+2013,Periyar National Park,29,24,2,2
+2000,Panna National Park,80,65,10,2
+2015,Ranthambore National Park,52,23,24,1
+1994,Jim Corbett National Park,89,21,25,39
+1998,Manas National Park,74,47,26,1
+1989,Ranthambore National Park,84,9,73,1
+2008,Manas National Park,28,1,6,19
+2007,Mudumalai National Park,51,18,2,17
+1988,Bandhavgarh National Park,31,18,6,4
+2020,Panna National Park,31,26,3,1
+1990,Bandhavgarh National Park,65,28,5,26
+1992,Manas National Park,87,39,7,4
+2004,Satpura National Park,25,21,4,0
+1989,Satpura National Park,60,17,20,12
+1999,Sariska Tiger Reserve,19,1,13,5
+2002,Mudumalai National Park,96,17,41,28
+2012,Sundarbans National Park,9,9,0,0
+1992,Dudhwa National Park,99,6,56,11
+1989,Bandhavgarh National Park,42,23,8,9
+2017,Bandhavgarh National Park,51,22,22,2
+2017,Periyar National Park,27,12,13,1
+2014,Ranthambore National Park,69,38,1,4
+2007,Bandipur National Park,51,45,4,1
+2004,Jim Corbett National Park,98,79,2,15
+1997,Periyar National Park,54,8,14,6
+2006,Dudhwa National Park,68,58,8,2
+1998,Jim Corbett National Park,24,3,11,1
+2002,Satpura National Park,37,18,1,14
+1990,Kaziranga National Park,46,14,28,1
+1993,Tadoba Andhari Tiger Reserve,76,76,0,0
+1989,Sundarbans National Park,43,35,4,3
+2015,Satpura National Park,67,41,16,10
+2012,Mudumalai National Park,47,7,25,2
+2004,Kaziranga National Park,38,10,22,6
+1990,Bandhavgarh National Park,19,12,5,1
+2000,Pench National Park,16,12,4,0
+1989,Bandipur National Park,27,19,5,1
+2016,Bandipur National Park,35,34,1,0
+1998,Kanha National Park,31,2,11,1
+2012,Sundarbans National Park,78,42,36,0
+1989,Sariska Tiger Reserve,31,11,7,12
+2004,Tadoba Andhari Tiger Reserve,77,50,5,11
+1990,Ranthambore National Park,8,7,1,0
+2006,Periyar National Park,87,39,47,1
+2007,Kanha National Park,12,4,8,0
+2006,Bandipur National Park,86,63,23,0
+2018,Manas National Park,75,10,36,22
+2004,Kanha National Park,99,41,48,9
+2013,Mudumalai National Park,97,78,2,15
+1995,Sariska Tiger Reserve,70,34,4,30
+1992,Kaziranga National Park,41,30,9,1
+2018,Satpura National Park,75,36,21,15
+1998,Jim Corbett National Park,67,2,60,3
+2002,Sundarbans National Park,62,5,34,17
+2015,Satpura National Park,69,34,21,4
+1990,Periyar National Park,21,6,5,8
+2004,Bandipur National Park,59,39,8,9
+2001,Mudumalai National Park,94,39,40,11
+2011,Manas National Park,63,59,4,0
+2020,Panna National Park,74,4,60,5
+2020,Sariska Tiger Reserve,65,35,13,11
+2005,Dudhwa National Park,75,46,22,6
+1988,Mudumalai National Park,21,1,11,4
+1998,Bandipur National Park,87,48,11,13
+1995,Satpura National Park,74,21,8,34
+2018,Mudumalai National Park,13,7,3,3
+2000,Tadoba Andhari Tiger Reserve,63,3,37,16
+2011,Tadoba Andhari Tiger Reserve,96,62,27,3
+1999,Manas National Park,98,42,22,13
+2010,Jim Corbett National Park,33,9,12,12
+2002,Sariska Tiger Reserve,51,36,6,9
+2019,Pench National Park,44,11,19,12
+2010,Bandhavgarh National Park,96,56,12,17
+2017,Bandipur National Park,85,63,11,8
+1992,Kanha National Park,44,34,8,1
+2019,Bandipur National Park,47,9,32,4
+2006,Periyar National Park,49,6,5,36
+2015,Periyar National Park,75,39,30,4
+1996,Pench National Park,60,33,6,16
+2014,Mudumalai National Park,43,26,7,2
+2005,Ranthambore National Park,80,52,25,2
+1985,Manas National Park,12,6,3,1
+2000,Manas National Park,86,29,6,1
+2015,Periyar National Park,53,25,24,1
+1988,Satpura National Park,55,18,32,5
+1994,Ranthambore National Park,99,57,20,16
+1985,Kaziranga National Park,11,7,1,3
+2005,Sundarbans National Park,36,36,0,0
+1995,Manas National Park,79,26,36,9
+1989,Jim Corbett National Park,27,19,1,5
+2016,Bandipur National Park,85,40,23,20
+2011,Satpura National Park,53,47,3,1
+2018,Kaziranga National Park,95,51,24,13
+2010,Pench National Park,1,1,0,0
+1990,Sariska Tiger Reserve,95,77,12,1
+1995,Kanha National Park,85,81,3,1
+2007,Mudumalai National Park,100,3,84,11
+2010,Tadoba Andhari Tiger Reserve,59,18,7,3
+1999,Periyar National Park,56,32,16,2
+2011,Kanha National Park,99,68,24,7
+2019,Kaziranga National Park,39,17,5,2
+2002,Sundarbans National Park,79,29,13,35
+2000,Panna National Park,72,41,4,27
+2008,Dudhwa National Park,89,25,52,10
+2016,Jim Corbett National Park,15,7,2,4
+2017,Sundarbans National Park,5,5,0,0
+2008,Bandipur National Park,93,78,5,1
+1993,Periyar National Park,67,65,1,1
+1988,Kanha National Park,35,28,5,2
+2009,Sundarbans National Park,39,8,1,26
+1995,Manas National Park,77,42,19,10
+2003,Periyar National Park,37,1,21,10
+2017,Mudumalai National Park,97,37,13,47
+1999,Satpura National Park,48,13,35,0
+2014,Sariska Tiger Reserve,73,23,22,2
+1992,Kaziranga National Park,44,37,3,2
+2014,Sariska Tiger Reserve,94,67,9,15
+2020,Bandhavgarh National Park,80,19,16,25
+1988,Tadoba Andhari Tiger Reserve,1,1,0,0
+2020,Kanha National Park,39,39,0,0
+2002,Periyar National Park,92,15,17,38
+1985,Sariska Tiger Reserve,99,12,12,7
+1986,Panna National Park,62,55,3,1
+1998,Dudhwa National Park,17,17,0,0
+2002,Periyar National Park,28,13,12,2
+1989,Sariska Tiger Reserve,85,78,4,2
+2000,Sariska Tiger Reserve,62,60,2,0
+2016,Jim Corbett National Park,16,10,6,0
+1989,Mudumalai National Park,12,4,1,5
+2001,Pench National Park,34,27,4,3
+1991,Pench National Park,85,18,25,1
+1985,Pench National Park,43,28,2,4
+2007,Sundarbans National Park,30,6,12,4
+1991,Kaziranga National Park,67,48,2,1
+2009,Pench National Park,92,21,28,33
+1996,Kanha National Park,42,29,6,5
+2011,Ranthambore National Park,36,25,6,2
+1991,Kaziranga National Park,88,30,13,13
+2018,Dudhwa National Park,89,5,5,25
+2009,Pench National Park,21,12,7,1
+2014,Tadoba Andhari Tiger Reserve,81,51,11,1
+1991,Jim Corbett National Park,78,7,38,15
+2000,Satpura National Park,96,10,39,47
+2015,Panna National Park,18,16,2,0
+1989,Periyar National Park,68,67,1,0
+2006,Mudumalai National Park,83,45,20,6
+1990,Manas National Park,5,4,1,0
+1999,Tadoba Andhari Tiger Reserve,65,4,49,9
+1993,Pench National Park,8,4,1,3
+2003,Satpura National Park,34,21,12,1
+2019,Kanha National Park,35,33,2,0
+1995,Satpura National Park,12,9,2,1
+2006,Pench National Park,75,3,44,8
+1997,Ranthambore National Park,54,17,9,1
+2002,Tadoba Andhari Tiger Reserve,66,49,14,1
+1999,Pench National Park,22,17,5,0
+1996,Sariska Tiger Reserve,39,33,6,0
+1997,Bandhavgarh National Park,21,3,7,7
+2020,Jim Corbett National Park,30,24,1,1
+2020,Dudhwa National Park,55,17,25,12
+2001,Jim Corbett National Park,42,40,1,1
+1991,Periyar National Park,3,1,2,0
+1996,Sundarbans National Park,28,21,2,1
+2009,Kanha National Park,42,27,13,2
+1999,Mudumalai National Park,11,11,0,0
+1994,Bandipur National Park,96,34,58,3
+2008,Dudhwa National Park,44,29,2,6
+2019,Jim Corbett National Park,65,39,10,12
+2007,Bandipur National Park,54,39,5,10
+2003,Satpura National Park,13,8,4,1
+2008,Manas National Park,85,45,2,26
+1985,Manas National Park,15,9,3,2
+1992,Sariska Tiger Reserve,25,18,6,1
+2019,Dudhwa National Park,60,25,9,5
+2001,Manas National Park,15,3,11,1
+1999,Sariska Tiger Reserve,83,56,11,14
+2010,Manas National Park,28,2,24,2
+2017,Tadoba Andhari Tiger Reserve,10,2,7,1
+1995,Pench National Park,28,27,1,0
+2010,Bandhavgarh National Park,21,11,7,1
+1992,Mudumalai National Park,13,10,1,1
+1998,Panna National Park,53,52,1,0
+2015,Periyar National Park,24,15,8,1
+1988,Mudumalai National Park,49,43,3,3
+1994,Sundarbans National Park,64,58,3,2
+1988,Ranthambore National Park,6,1,2,1
+1992,Satpura National Park,14,10,3,1
+2012,Jim Corbett National Park,42,20,22,0
+2003,Kaziranga National Park,5,1,3,1
+1989,Kanha National Park,23,14,2,5
+2020,Mudumalai National Park,56,35,12,8
+1995,Bandipur National Park,14,1,2,2
+1992,Panna National Park,29,25,1,3
+1989,Mudumalai National Park,32,30,1,1
+1989,Kaziranga National Park,78,40,32,4
+2000,Panna National Park,71,40,18,10
+1999,Bandhavgarh National Park,83,37,13,17
+2003,Pench National Park,25,8,12,5
+2006,Ranthambore National Park,67,61,6,0
+2016,Tadoba Andhari Tiger Reserve,5,4,1,0
+2004,Kanha National Park,67,46,13,3
+2009,Bandhavgarh National Park,94,56,3,6
+1995,Sundarbans National Park,97,90,4,1
+2000,Kanha National Park,48,40,4,2
+1990,Satpura National Park,53,43,5,4
+2003,Ranthambore National Park,61,2,38,14
+1985,Dudhwa National Park,40,24,5,7
+2013,Mudumalai National Park,89,31,24,30
+2010,Ranthambore National Park,99,7,44,22
+2001,Ranthambore National Park,38,10,26,2
+2002,Sundarbans National Park,75,36,26,10
+2008,Kanha National Park,55,44,1,9
+2001,Manas National Park,75,10,53,10
+1997,Jim Corbett National Park,85,11,14,58
+2012,Bandipur National Park,77,59,2,8
+1996,Mudumalai National Park,79,1,74,3
+2019,Sundarbans National Park,15,14,1,0
+1988,Pench National Park,50,4,28,11
+2004,Manas National Park,8,3,1,1
+2002,Mudumalai National Park,76,14,8,14
+1999,Bandipur National Park,99,73,18,4
+2012,Panna National Park,4,4,0,0
+1988,Satpura National Park,44,8,9,9
+1986,Bandipur National Park,96,46,44,6
+1989,Periyar National Park,72,54,1,6
+1987,Ranthambore National Park,88,42,33,9
+2000,Jim Corbett National Park,7,7,0,0
+1991,Sundarbans National Park,25,9,12,3
+2014,Manas National Park,22,15,4,2
+2013,Tadoba Andhari Tiger Reserve,100,24,50,17
+1991,Pench National Park,91,23,10,8
+1997,Bandhavgarh National Park,65,48,9,4
+1997,Dudhwa National Park,74,46,24,2
+1992,Jim Corbett National Park,34,7,10,11
+2007,Mudumalai National Park,23,12,10,1
+2019,Panna National Park,49,36,10,2
+2017,Tadoba Andhari Tiger Reserve,39,27,1,4
+2016,Bandipur National Park,91,45,17,10
+1998,Dudhwa National Park,61,44,12,4
+1995,Kaziranga National Park,88,85,3,0
+2007,Bandipur National Park,39,18,21,0
+2010,Bandipur National Park,25,14,2,7
+2006,Satpura National Park,70,67,2,1
+1995,Dudhwa National Park,97,15,44,3
+1989,Manas National Park,46,21,19,2
+1987,Periyar National Park,100,32,21,30
+2020,Sariska Tiger Reserve,66,36,26,3
+1987,Tadoba Andhari Tiger Reserve,3,1,1,1
+2017,Kanha National Park,12,2,6,2
+2017,Periyar National Park,75,52,1,21
+1988,Panna National Park,22,5,17,0
+2004,Mudumalai National Park,35,27,2,1
+1986,Jim Corbett National Park,81,35,9,20
+1992,Jim Corbett National Park,50,6,18,9
+1993,Satpura National Park,39,35,1,3
+2010,Satpura National Park,49,40,6,3
+2001,Pench National Park,53,34,18,1
+2019,Manas National Park,74,43,30,1
+2004,Dudhwa National Park,40,7,19,12
+2017,Bandipur National Park,2,2,0,0
+2012,Satpura National Park,23,13,2,7
+1996,Ranthambore National Park,30,30,0,0
+2016,Sariska Tiger Reserve,47,4,43,0
+1993,Jim Corbett National Park,55,22,4,4
+2007,Pench National Park,86,35,16,6
+2007,Sundarbans National Park,22,2,1,19
+1989,Satpura National Park,35,19,10,6
+2003,Sariska Tiger Reserve,96,6,11,21
+2000,Bandhavgarh National Park,68,28,7,12
+1995,Bandipur National Park,94,26,49,4
+2005,Mudumalai National Park,74,40,2,30
+1985,Sariska Tiger Reserve,33,13,12,6
+2011,Ranthambore National Park,82,30,3,48
+2012,Dudhwa National Park,28,18,2,7
+2009,Tadoba Andhari Tiger Reserve,7,2,5,0
+2014,Periyar National Park,95,37,27,4
+2011,Periyar National Park,87,2,5,71
+1989,Sariska Tiger Reserve,91,65,10,14
+1998,Dudhwa National Park,20,10,9,1
+1996,Sariska Tiger Reserve,84,68,13,2
+1986,Kaziranga National Park,94,81,2,7
+2018,Manas National Park,20,5,13,1
+2012,Mudumalai National Park,8,1,2,1
+2012,Jim Corbett National Park,14,9,5,0
+1986,Sundarbans National Park,100,79,10,2
+1989,Pench National Park,10,8,1,1
+1988,Periyar National Park,14,14,0,0
+1988,Jim Corbett National Park,94,50,38,6
+2016,Pench National Park,86,32,17,19
+2011,Dudhwa National Park,47,42,5,0
+2012,Ranthambore National Park,71,28,4,27
+2006,Kaziranga National Park,76,59,9,7
+1994,Manas National Park,5,1,4,0
+2018,Kaziranga National Park,74,62,9,1
+2004,Kaziranga National Park,73,62,10,1
+2010,Bandhavgarh National Park,86,52,10,16
+2018,Periyar National Park,94,4,1,47
+2014,Panna National Park,79,4,75,0
+2012,Ranthambore National Park,10,7,3,0
+2009,Mudumalai National Park,82,34,18,28
+1992,Bandhavgarh National Park,17,2,14,1
+2005,Mudumalai National Park,87,47,36,2
+1996,Satpura National Park,86,26,15,16
+1997,Satpura National Park,41,38,2,1
+2003,Sundarbans National Park,43,9,1,17
+2000,Jim Corbett National Park,74,4,56,1
+2020,Bandhavgarh National Park,75,65,2,5
+2020,Panna National Park,6,1,2,1
+2002,Satpura National Park,49,5,24,5
+1996,Ranthambore National Park,25,15,9,1
+1998,Dudhwa National Park,91,9,2,22
+1998,Mudumalai National Park,46,44,1,1
+2014,Periyar National Park,17,14,1,2
+2017,Pench National Park,43,23,20,0
+1996,Satpura National Park,11,1,3,2
+1993,Panna National Park,79,10,8,55
+1993,Kanha National Park,47,7,1,19
+2005,Satpura National Park,12,6,5,1
+1989,Sundarbans National Park,77,20,51,6
+2017,Satpura National Park,50,13,22,7
+2015,Kaziranga National Park,42,18,19,2
+2014,Satpura National Park,100,88,4,5
+2009,Sundarbans National Park,41,6,8,16
+2000,Bandipur National Park,54,50,3,1
+2018,Sundarbans National Park,24,21,2,1
+2016,Mudumalai National Park,81,81,0,0
+2008,Manas National Park,15,3,6,3
+1999,Sundarbans National Park,10,3,2,4
+1999,Panna National Park,54,6,41,2
+2001,Jim Corbett National Park,9,5,1,3
+1997,Bandipur National Park,32,14,14,1
+2005,Mudumalai National Park,40,15,24,1
+1994,Panna National Park,19,14,5,0
+2018,Periyar National Park,11,4,6,1
+2002,Bandhavgarh National Park,97,72,10,9
+1985,Bandipur National Park,27,19,5,3
+2016,Tadoba Andhari Tiger Reserve,62,58,4,0
+2009,Periyar National Park,42,36,3,2
+2001,Periyar National Park,5,3,2,0
+2012,Sariska Tiger Reserve,69,52,1,13
+1997,Manas National Park,85,4,56,2
+2017,Sundarbans National Park,52,6,40,4
+2016,Mudumalai National Park,29,8,7,9
+2013,Kaziranga National Park,98,27,28,15
+2000,Pench National Park,85,65,3,6
+2000,Bandhavgarh National Park,55,26,1,6
+1998,Kanha National Park,95,76,19,0
+2009,Ranthambore National Park,91,63,10,9
+2005,Mudumalai National Park,74,25,20,5
+2010,Pench National Park,10,4,2,1
+2017,Satpura National Park,92,81,11,0
+2000,Satpura National Park,5,3,1,1
+2019,Sundarbans National Park,78,6,51,17
+1996,Bandhavgarh National Park,63,27,31,2
+2008,Kaziranga National Park,11,5,2,1
+1988,Pench National Park,35,24,5,4
+1991,Mudumalai National Park,13,13,0,0
+2008,Kanha National Park,99,81,13,1
+1989,Ranthambore National Park,71,65,6,0
+2012,Dudhwa National Park,35,29,6,0
+2000,Kaziranga National Park,71,58,11,1
+1985,Ranthambore National Park,87,61,18,6
+2002,Bandipur National Park,57,34,19,1
+2002,Kaziranga National Park,98,61,17,5
+2002,Satpura National Park,15,12,2,1
+1997,Bandhavgarh National Park,46,24,18,3
+2016,Panna National Park,95,3,45,25
+1990,Manas National Park,36,35,1,0
+2008,Pench National Park,61,24,11,4
+2015,Satpura National Park,63,47,4,2
+2018,Satpura National Park,37,2,21,10
+1988,Sariska Tiger Reserve,22,5,16,1
+2019,Manas National Park,44,43,1,0
+2001,Kanha National Park,54,19,4,15
+1998,Tadoba Andhari Tiger Reserve,5,1,2,2
+2020,Kaziranga National Park,19,14,3,2
+1998,Ranthambore National Park,66,24,31,9
+1985,Manas National Park,83,66,17,0
+2016,Pench National Park,58,49,7,2
+1994,Tadoba Andhari Tiger Reserve,73,34,16,5
+1996,Pench National Park,74,28,10,36
+2009,Tadoba Andhari Tiger Reserve,49,37,12,0
+2006,Satpura National Park,47,7,5,29
+1985,Manas National Park,39,17,11,2
+2010,Pench National Park,33,5,27,1
+2007,Mudumalai National Park,100,93,7,0
+2006,Manas National Park,23,8,8,2
+2000,Satpura National Park,93,72,20,1
+1991,Bandhavgarh National Park,67,57,7,1
+1992,Ranthambore National Park,90,79,2,4
+2000,Sundarbans National Park,86,57,25,1
+2008,Satpura National Park,50,2,44,3
+1996,Periyar National Park,18,17,1,0
+2003,Dudhwa National Park,80,80,0,0
+2015,Sundarbans National Park,62,1,26,31
+2011,Panna National Park,85,73,12,0
+2000,Bandipur National Park,41,17,23,1
+2004,Sariska Tiger Reserve,69,18,37,14
+2000,Bandipur National Park,70,40,7,4
+1995,Jim Corbett National Park,38,12,25,1
+2015,Kanha National Park,90,52,35,2
+2004,Ranthambore National Park,77,51,20,5
+1997,Satpura National Park,84,61,23,0
+1996,Panna National Park,92,42,24,26
+2008,Satpura National Park,81,67,14,0
+1993,Satpura National Park,54,8,5,9
+2019,Sariska Tiger Reserve,10,5,4,1
+2009,Jim Corbett National Park,77,6,42,12
+2002,Ranthambore National Park,2,1,1,0
+2010,Kaziranga National Park,2,2,0,0
+2003,Sariska Tiger Reserve,49,35,10,3
+1991,Dudhwa National Park,69,33,17,15
+2018,Satpura National Park,9,1,1,1
+2019,Tadoba Andhari Tiger Reserve,8,1,4,2
+1998,Satpura National Park,90,68,18,2
+1997,Manas National Park,14,1,4,5
+2020,Ranthambore National Park,19,19,0,0
+2018,Sundarbans National Park,9,8,1,0
+1985,Panna National Park,36,4,23,1
+2013,Ranthambore National Park,77,56,9,10
+1993,Jim Corbett National Park,35,7,8,9
+2003,Panna National Park,50,12,29,6
+2007,Manas National Park,98,41,24,9
+1992,Sariska Tiger Reserve,74,59,3,3
+1986,Panna National Park,94,7,56,17
+2015,Mudumalai National Park,53,25,22,6
+1997,Satpura National Park,87,7,4,57
+2017,Sariska Tiger Reserve,98,68,7,16
+2015,Kaziranga National Park,87,4,31,23
+1988,Kaziranga National Park,68,15,19,20
+2010,Manas National Park,34,2,14,1
+1998,Panna National Park,90,11,75,4
+2002,Satpura National Park,9,8,1,0
+1989,Bandhavgarh National Park,59,50,2,5
+2019,Mudumalai National Park,30,24,3,3
+1991,Kanha National Park,65,59,3,3
+1999,Tadoba Andhari Tiger Reserve,69,57,6,1
+1986,Bandhavgarh National Park,95,32,30,25
+2012,Sundarbans National Park,86,43,17,4
+1994,Dudhwa National Park,65,55,3,2
+2003,Kanha National Park,49,8,5,2
+2019,Satpura National Park,64,56,4,2
+2003,Periyar National Park,81,62,10,2
+2003,Kanha National Park,87,79,8,0
+1992,Pench National Park,67,28,13,7
+2004,Kaziranga National Park,61,52,2,2
+2009,Kaziranga National Park,62,10,5,29
+2005,Panna National Park,2,2,0,0
+2018,Sundarbans National Park,30,14,6,8
+2014,Manas National Park,63,46,17,0
+2006,Kanha National Park,28,10,1,17
+1985,Panna National Park,87,21,41,5
+1991,Dudhwa National Park,68,10,31,23
+2016,Satpura National Park,62,62,0,0
+2009,Pench National Park,65,44,14,6
+2010,Periyar National Park,19,15,2,1
+2016,Manas National Park,5,3,2,0
+2007,Mudumalai National Park,96,63,16,13
+1992,Mudumalai National Park,80,80,0,0
+2013,Periyar National Park,32,26,5,1
+2004,Mudumalai National Park,87,41,24,18
+1990,Kaziranga National Park,87,5,16,42
+2014,Ranthambore National Park,40,13,15,10
+1992,Jim Corbett National Park,53,47,5,1
+2011,Tadoba Andhari Tiger Reserve,42,5,17,13
+2000,Dudhwa National Park,82,47,25,2
+2017,Manas National Park,98,3,83,10
+2007,Kanha National Park,45,45,0,0
+2006,Dudhwa National Park,74,53,11,5
+2017,Kaziranga National Park,19,15,3,1
+1993,Kaziranga National Park,71,41,8,15
+1999,Jim Corbett National Park,41,14,18,4
+2007,Jim Corbett National Park,15,10,5,0
+1985,Bandipur National Park,82,59,5,13
+1988,Jim Corbett National Park,62,14,28,17
+2006,Satpura National Park,12,4,6,2
+2001,Panna National Park,66,18,31,7
+1985,Pench National Park,32,20,1,1
+2014,Jim Corbett National Park,95,83,8,1
+2013,Panna National Park,83,47,5,10
+2004,Bandipur National Park,27,8,7,12
+2020,Bandipur National Park,4,1,3,0
+1986,Ranthambore National Park,56,39,5,6
+2017,Sundarbans National Park,4,2,2,0
+1985,Sariska Tiger Reserve,48,4,43,1
+2001,Kanha National Park,43,21,6,5
+2013,Tadoba Andhari Tiger Reserve,51,40,9,1
+1986,Pench National Park,12,12,0,0
+2017,Periyar National Park,100,63,32,4
+1988,Satpura National Park,42,15,14,7
+2020,Bandhavgarh National Park,71,11,30,21
+1985,Kaziranga National Park,63,14,7,30
+2007,Mudumalai National Park,97,1,43,10
+1995,Satpura National Park,18,2,4,12
+2019,Bandipur National Park,15,2,8,3
+1991,Ranthambore National Park,99,26,73,0
+1991,Kanha National Park,35,11,4,8
+2009,Satpura National Park,81,10,71,0
+1989,Bandhavgarh National Park,39,12,14,8
+1992,Mudumalai National Park,63,15,5,17
+2000,Panna National Park,54,40,1,4
+2005,Periyar National Park,86,10,36,22
+1988,Mudumalai National Park,4,4,0,0
+2000,Ranthambore National Park,30,23,1,6
+2004,Bandipur National Park,81,74,4,1
+1987,Kanha National Park,68,25,16,18
+1992,Ranthambore National Park,20,7,5,1
+2006,Pench National Park,78,42,24,3
+2001,Satpura National Park,31,14,17,0
+2019,Dudhwa National Park,73,13,54,6
+2001,Mudumalai National Park,90,77,1,3
+2018,Mudumalai National Park,60,28,15,16
+1996,Jim Corbett National Park,35,25,7,3
+2002,Manas National Park,54,39,10,4
+2000,Panna National Park,12,9,1,2
+2013,Bandipur National Park,5,5,0,0
+2020,Pench National Park,92,48,42,2
+1993,Sariska Tiger Reserve,6,1,3,2
+1998,Panna National Park,86,42,11,18
+1999,Manas National Park,37,30,4,1
+1986,Ranthambore National Park,24,10,8,5
+2011,Sariska Tiger Reserve,65,33,30,2
+1996,Panna National Park,42,42,0,0
+2012,Pench National Park,86,57,7,18
+1997,Sariska Tiger Reserve,26,7,18,1
+1998,Pench National Park,18,2,13,3
+2004,Manas National Park,29,20,4,1
+1993,Panna National Park,6,3,3,0
+1996,Periyar National Park,25,11,2,2
+2002,Jim Corbett National Park,21,2,1,16
+2004,Mudumalai National Park,64,25,12,18
+1990,Mudumalai National Park,21,9,12,0
+2007,Panna National Park,95,58,7,27
+2005,Sundarbans National Park,66,7,40,11
+1987,Tadoba Andhari Tiger Reserve,36,31,1,1
+1995,Mudumalai National Park,50,10,23,9
+2019,Dudhwa National Park,45,4,26,5
+2003,Manas National Park,78,60,9,1
+1997,Jim Corbett National Park,79,5,54,5
+2003,Dudhwa National Park,64,5,10,22
+2000,Sariska Tiger Reserve,27,19,3,1
+2015,Satpura National Park,3,1,1,1
+1998,Jim Corbett National Park,60,43,1,10
+2016,Tadoba Andhari Tiger Reserve,95,14,38,3
+2020,Mudumalai National Park,8,3,1,3
+1993,Sariska Tiger Reserve,79,53,13,1
+2014,Dudhwa National Park,71,59,12,0
+2007,Satpura National Park,95,43,48,4
+2015,Kaziranga National Park,38,7,16,4
+2001,Periyar National Park,68,54,13,1
+1998,Pench National Park,6,4,1,1
+2011,Bandhavgarh National Park,76,40,21,12
+2007,Sariska Tiger Reserve,47,10,20,9
+1989,Jim Corbett National Park,93,72,15,3
+2003,Kanha National Park,82,16,35,27
+2017,Satpura National Park,98,23,11,63
+2008,Manas National Park,39,3,10,13
+1990,Dudhwa National Park,62,48,12,1
+1991,Periyar National Park,22,16,4,1
+2004,Tadoba Andhari Tiger Reserve,48,34,9,5
+2019,Dudhwa National Park,56,4,23,11
+2018,Pench National Park,24,4,3,2
+1995,Manas National Park,60,1,17,38
+1996,Mudumalai National Park,34,28,6,0
+1996,Dudhwa National Park,55,35,18,2
+2005,Periyar National Park,52,37,15,0
+1985,Panna National Park,8,4,2,1
+2002,Manas National Park,68,56,12,0
+1985,Pench National Park,81,34,25,18
+1991,Tadoba Andhari Tiger Reserve,77,49,23,4
+2014,Dudhwa National Park,85,21,26,20
+2002,Kanha National Park,37,34,3,0
+2012,Manas National Park,90,12,77,1
+2011,Pench National Park,57,21,15,12
+2012,Satpura National Park,57,9,41,2
+1990,Dudhwa National Park,1,1,0,0
+2017,Pench National Park,94,61,4,18
+1994,Jim Corbett National Park,4,4,0,0
+2011,Jim Corbett National Park,28,10,8,6
+2015,Ranthambore National Park,52,3,13,2
+2008,Bandhavgarh National Park,5,3,1,1
+2009,Bandhavgarh National Park,77,77,0,0
+1991,Kanha National Park,90,78,4,6
+2013,Kanha National Park,14,10,4,0
+1997,Periyar National Park,15,1,3,3
+1985,Pench National Park,56,51,2,1
+2014,Mudumalai National Park,75,21,40,11
+2006,Jim Corbett National Park,53,24,22,7
+2015,Satpura National Park,75,52,11,9
+2006,Panna National Park,45,2,11,13
+2006,Pench National Park,97,41,36,7
+1997,Bandhavgarh National Park,73,30,11,14
+2019,Dudhwa National Park,7,4,3,0
+2013,Mudumalai National Park,50,22,5,4
+1993,Sariska Tiger Reserve,39,18,16,1
+2016,Panna National Park,71,44,27,0
+2005,Jim Corbett National Park,26,24,1,1
+1988,Ranthambore National Park,17,10,4,3
+2008,Pench National Park,82,13,16,29
+2002,Manas National Park,78,29,41,8
+1992,Sundarbans National Park,19,6,6,2
+2018,Sundarbans National Park,44,20,9,13
+2008,Tadoba Andhari Tiger Reserve,57,57,0,0
+2013,Manas National Park,79,36,9,28
+1993,Sundarbans National Park,42,17,8,15
+2016,Jim Corbett National Park,37,25,4,6
+1990,Bandhavgarh National Park,99,17,78,4
+1994,Bandhavgarh National Park,92,10,12,70
+2009,Jim Corbett National Park,7,4,3,0
+2016,Bandhavgarh National Park,11,8,3,0
+2016,Kaziranga National Park,49,26,16,6
+1990,Sundarbans National Park,60,59,1,0
+1997,Pench National Park,33,2,22,9
+2015,Mudumalai National Park,4,3,1,0
+1998,Mudumalai National Park,38,8,23,2
+2012,Periyar National Park,68,10,5,45
+1996,Jim Corbett National Park,77,66,7,2
+2007,Kaziranga National Park,83,24,23,36
+1995,Dudhwa National Park,20,10,2,4
+2020,Pench National Park,46,8,1,28
+1997,Satpura National Park,52,47,1,1
+2000,Kaziranga National Park,3,1,2,0
+2017,Kaziranga National Park,49,27,13,3
+1986,Pench National Park,23,4,1,13
+2001,Sariska Tiger Reserve,70,17,9,5
+1985,Kanha National Park,5,2,3,0
+2012,Sundarbans National Park,76,47,7,12
+1989,Tadoba Andhari Tiger Reserve,89,71,4,14
+1985,Sundarbans National Park,83,15,67,1
+2017,Tadoba Andhari Tiger Reserve,82,34,38,9
+1985,Sariska Tiger Reserve,80,38,7,7
+2018,Kaziranga National Park,73,50,6,1
+2001,Jim Corbett National Park,85,20,10,29
+1989,Dudhwa National Park,87,23,45,13
+2019,Satpura National Park,37,3,12,18
+1991,Bandhavgarh National Park,71,42,7,15
+1995,Kaziranga National Park,17,14,3,0
+1987,Tadoba Andhari Tiger Reserve,20,4,2,2
+2004,Pench National Park,90,4,59,11
+2018,Jim Corbett National Park,88,41,20,14
+1988,Periyar National Park,49,16,16,16
+2016,Sundarbans National Park,14,3,11,0
+2006,Sundarbans National Park,80,33,45,1
+2014,Manas National Park,66,66,0,0
+2006,Manas National Park,32,11,3,8
+2005,Ranthambore National Park,30,10,4,4
+2019,Manas National Park,81,70,10,1
+2001,Manas National Park,26,8,8,5
+1999,Panna National Park,12,11,1,0
+2011,Jim Corbett National Park,81,24,56,1
+2020,Dudhwa National Park,53,26,25,1
+2017,Tadoba Andhari Tiger Reserve,46,8,37,1
+2020,Kaziranga National Park,39,17,6,6
+2010,Bandhavgarh National Park,49,37,8,1
+1989,Satpura National Park,24,11,1,5
+2020,Jim Corbett National Park,78,2,9,66
+1993,Periyar National Park,35,9,5,6
+2013,Kaziranga National Park,66,12,31,3
+1997,Periyar National Park,68,34,4,20
+2013,Kanha National Park,44,20,14,8
+2019,Sariska Tiger Reserve,85,15,23,20
+2003,Bandipur National Park,75,46,21,8
+1989,Kanha National Park,38,15,6,17
+2017,Sundarbans National Park,88,1,28,47
+2011,Manas National Park,49,20,20,5
+2009,Bandipur National Park,93,59,11,14
+2020,Ranthambore National Park,82,28,1,28
+2009,Jim Corbett National Park,1,1,0,0
+1985,Sundarbans National Park,37,17,1,8
+2011,Sundarbans National Park,55,55,0,0
+2015,Pench National Park,20,18,1,1
+2018,Ranthambore National Park,13,9,1,3
+2015,Tadoba Andhari Tiger Reserve,91,90,1,0
+1986,Jim Corbett National Park,31,7,10,1
+2019,Bandhavgarh National Park,75,62,11,2
+2005,Pench National Park,96,87,1,1
+2020,Ranthambore National Park,84,84,0,0
+2012,Panna National Park,15,10,1,1
+2008,Sariska Tiger Reserve,44,4,9,24
+1992,Kaziranga National Park,5,5,0,0
+2010,Mudumalai National Park,27,19,1,4
+2016,Sariska Tiger Reserve,52,9,40,2
+1991,Jim Corbett National Park,45,43,2,0
+1998,Ranthambore National Park,66,2,50,12
+2019,Periyar National Park,100,19,55,12
+1998,Satpura National Park,6,4,1,1
+1988,Ranthambore National Park,41,7,25,9
+1994,Satpura National Park,97,69,25,2
+1992,Bandhavgarh National Park,85,44,14,26
+2000,Sundarbans National Park,60,26,8,19
+2011,Sundarbans National Park,27,20,1,4
+1990,Kanha National Park,54,44,7,3
+2004,Manas National Park,94,32,30,28
+2016,Pench National Park,3,2,1,0
+1995,Sundarbans National Park,46,35,2,2
+1986,Manas National Park,4,1,2,1
+2020,Bandhavgarh National Park,69,8,41,19
+2015,Kanha National Park,99,17,57,10
+1985,Manas National Park,7,1,6,0
+1991,Bandipur National Park,54,15,2,37
+1998,Kanha National Park,5,5,0,0
+2008,Bandhavgarh National Park,29,3,1,22
+2006,Jim Corbett National Park,37,32,1,4
+2008,Kanha National Park,16,14,2,0
+2015,Dudhwa National Park,16,7,5,4
+2010,Manas National Park,56,56,0,0
+1986,Sariska Tiger Reserve,70,70,0,0
+1994,Manas National Park,35,30,3,2
+2005,Satpura National Park,1,1,0,0
+2017,Bandhavgarh National Park,45,29,2,11
+2012,Sariska Tiger Reserve,21,13,7,1
+1985,Sariska Tiger Reserve,15,3,6,1
+2016,Bandipur National Park,1,1,0,0
+1990,Kanha National Park,16,8,8,0
+1993,Manas National Park,83,6,39,7
+2018,Kaziranga National Park,81,41,32,6
+1989,Kaziranga National Park,50,11,11,7
+1995,Satpura National Park,51,45,4,1
+2005,Ranthambore National Park,90,78,3,3
+2005,Sundarbans National Park,40,22,6,4
+2017,Manas National Park,18,4,8,4
+2020,Periyar National Park,68,29,13,17
+1990,Jim Corbett National Park,37,21,15,1
+1997,Jim Corbett National Park,88,67,20,1
+2012,Kanha National Park,14,2,1,6
+1999,Jim Corbett National Park,36,27,6,1
+2005,Tadoba Andhari Tiger Reserve,84,67,16,1
+1994,Bandhavgarh National Park,64,22,27,15
+1997,Kanha National Park,12,12,0,0
+1995,Sariska Tiger Reserve,45,7,23,10
+1986,Ranthambore National Park,29,1,20,3
+2000,Dudhwa National Park,78,74,3,1
+2009,Bandhavgarh National Park,3,1,1,1
+2002,Dudhwa National Park,44,37,7,0
+2009,Sariska Tiger Reserve,28,27,1,0
+2018,Sundarbans National Park,82,28,48,2
+1990,Pench National Park,10,10,0,0
+2002,Sariska Tiger Reserve,71,47,17,5
+2005,Periyar National Park,73,15,15,31
+2016,Manas National Park,84,78,2,3
+2018,Panna National Park,85,70,13,1
+1986,Dudhwa National Park,36,5,25,6
+1999,Dudhwa National Park,96,37,43,15
+1985,Sundarbans National Park,12,6,1,4
+1994,Dudhwa National Park,38,35,3,0
+1997,Jim Corbett National Park,9,3,3,2
+2009,Periyar National Park,63,40,18,1
+2005,Sundarbans National Park,45,45,0,0
+1997,Mudumalai National Park,13,4,2,6
+2020,Bandipur National Park,66,25,17,12
+1987,Manas National Park,61,30,16,12
+1988,Dudhwa National Park,64,9,40,14
+2018,Bandhavgarh National Park,46,46,0,0
+1999,Manas National Park,16,3,6,1
+1987,Tadoba Andhari Tiger Reserve,99,75,2,11
+2015,Kaziranga National Park,1,1,0,0
+1990,Periyar National Park,79,32,40,6
+1988,Sundarbans National Park,70,17,53,0
+1986,Kanha National Park,62,7,51,1
+2020,Panna National Park,8,3,3,1
+2004,Kanha National Park,24,8,12,4
+1994,Satpura National Park,89,87,1,1
+1991,Sariska Tiger Reserve,11,1,3,2
+2011,Bandipur National Park,42,8,23,8
+2008,Pench National Park,30,27,2,1
+2005,Kaziranga National Park,35,17,6,1
+2019,Ranthambore National Park,51,2,46,1
+2020,Satpura National Park,1,1,0,0
+1989,Ranthambore National Park,65,43,22,0
+2020,Manas National Park,42,28,8,4
+2017,Satpura National Park,72,21,31,20
+2008,Sundarbans National Park,31,8,20,3
+2019,Kaziranga National Park,43,11,26,3
+2008,Periyar National Park,53,41,3,9
+1987,Kaziranga National Park,1,1,0,0
+2015,Bandhavgarh National Park,15,3,9,1
+1986,Ranthambore National Park,91,63,5,18
+1999,Tadoba Andhari Tiger Reserve,70,63,5,1
+2008,Kaziranga National Park,5,1,1,1
+2013,Kanha National Park,19,10,5,1
+2013,Pench National Park,74,62,7,3
+1989,Pench National Park,32,2,9,7
+2015,Pench National Park,48,37,10,1
+2015,Mudumalai National Park,17,1,10,1
+2011,Manas National Park,9,5,4,0
+2016,Sariska Tiger Reserve,4,3,1,0
+2005,Sariska Tiger Reserve,60,35,8,4
+2017,Pench National Park,91,70,12,3
+2004,Pench National Park,34,9,14,3
+2014,Ranthambore National Park,18,2,11,2
+2007,Sariska Tiger Reserve,88,73,14,1
+1987,Jim Corbett National Park,93,43,33,6
+2003,Satpura National Park,62,46,2,11
+2017,Jim Corbett National Park,89,76,4,3
+2005,Kaziranga National Park,6,3,2,1
+1992,Periyar National Park,69,56,6,5
+1985,Satpura National Park,87,20,11,29
+1995,Panna National Park,63,28,31,3
+1997,Periyar National Park,30,26,2,2
+1989,Bandhavgarh National Park,6,6,0,0
+2011,Pench National Park,51,22,3,9
+2003,Manas National Park,54,21,32,1
+1990,Tadoba Andhari Tiger Reserve,91,32,5,36
+1999,Manas National Park,30,13,2,8
+2014,Periyar National Park,86,27,18,2
+1990,Sariska Tiger Reserve,54,36,18,0
+1990,Ranthambore National Park,56,46,3,5
+2004,Manas National Park,3,3,0,0
+1985,Kanha National Park,89,35,53,1
+1996,Bandipur National Park,19,5,8,6
+2004,Dudhwa National Park,16,1,8,5
+2016,Bandipur National Park,95,37,21,33
+1999,Mudumalai National Park,73,21,19,25
+2008,Sariska Tiger Reserve,67,2,60,1
+1997,Mudumalai National Park,100,91,4,2
+1989,Jim Corbett National Park,32,23,4,2
+1997,Periyar National Park,91,46,24,14
+2013,Bandhavgarh National Park,38,20,11,6
+1989,Bandipur National Park,46,26,1,15
+2016,Kanha National Park,89,87,1,1
+2015,Kanha National Park,41,13,5,20
+1989,Panna National Park,36,4,3,8
+2005,Periyar National Park,33,22,3,1
+2002,Dudhwa National Park,10,8,1,1
+1993,Tadoba Andhari Tiger Reserve,28,9,4,7
+2013,Tadoba Andhari Tiger Reserve,82,68,12,2
+1987,Kaziranga National Park,64,59,1,1
+2004,Panna National Park,55,25,27,3
+2013,Mudumalai National Park,78,63,12,1
+1990,Satpura National Park,35,29,4,2
+1999,Manas National Park,59,2,13,13
+1990,Bandhavgarh National Park,68,12,41,5
+1991,Bandhavgarh National Park,81,73,5,3
+1991,Tadoba Andhari Tiger Reserve,65,42,16,2
+1997,Panna National Park,82,49,18,2
+2020,Sariska Tiger Reserve,12,2,8,1
+2013,Ranthambore National Park,26,9,14,1
+1988,Tadoba Andhari Tiger Reserve,16,9,6,1
+2005,Periyar National Park,41,16,20,4
+1985,Panna National Park,100,55,33,2
+2015,Sundarbans National Park,23,18,4,1
+2000,Bandhavgarh National Park,12,4,6,1
+1997,Sariska Tiger Reserve,34,12,11,11
+2013,Pench National Park,21,8,5,3
+1994,Tadoba Andhari Tiger Reserve,80,21,22,16
+2017,Bandhavgarh National Park,9,4,4,1
+1991,Kaziranga National Park,80,67,5,4
+2012,Pench National Park,32,32,0,0
+1992,Kaziranga National Park,80,66,3,5
+2008,Panna National Park,4,3,1,0
+2011,Kaziranga National Park,43,15,25,1
+1994,Manas National Park,74,20,5,49
+2015,Bandhavgarh National Park,56,12,25,4
+1994,Sundarbans National Park,53,9,3,33
+1997,Bandhavgarh National Park,75,22,25,23
+2014,Jim Corbett National Park,32,19,4,6
+2004,Kanha National Park,26,20,4,2
+1997,Sundarbans National Park,8,1,5,1
+1989,Manas National Park,76,8,11,45
+2007,Kanha National Park,49,20,6,20
+2005,Panna National Park,72,21,41,9
+2003,Satpura National Park,43,30,7,1
+1989,Bandhavgarh National Park,21,4,17,0
+2013,Bandipur National Park,94,50,9,26
+1999,Sariska Tiger Reserve,43,31,2,5
+2006,Kanha National Park,47,7,16,6
+1991,Ranthambore National Park,96,89,4,2
+1996,Kanha National Park,74,18,25,27
+2000,Pench National Park,43,17,11,5
+2010,Bandhavgarh National Park,60,60,0,0
+2020,Satpura National Park,97,11,70,1
+2016,Sariska Tiger Reserve,92,56,26,9
+1999,Mudumalai National Park,64,43,4,2
+1993,Tadoba Andhari Tiger Reserve,87,57,26,4
+2001,Dudhwa National Park,11,9,1,1
+2005,Kanha National Park,92,79,4,9
+1993,Sariska Tiger Reserve,89,28,55,1
+1991,Jim Corbett National Park,77,62,5,1
+2018,Sundarbans National Park,20,8,9,1
+2002,Bandipur National Park,17,13,1,3
+1988,Pench National Park,39,16,17,4
+1997,Pench National Park,21,3,11,5
+1986,Dudhwa National Park,56,4,19,14
+2004,Dudhwa National Park,100,80,20,0
+2012,Sundarbans National Park,96,67,26,3
+1998,Periyar National Park,85,17,65,1
+1996,Kanha National Park,82,54,13,9
+2016,Dudhwa National Park,72,57,1,1
+2015,Sundarbans National Park,76,38,17,16
+1992,Sariska Tiger Reserve,62,23,10,11
+2011,Periyar National Park,98,1,97,0
+1990,Bandipur National Park,37,18,19,0
+1990,Sariska Tiger Reserve,77,44,5,2
+1992,Ranthambore National Park,44,27,17,0
+1994,Manas National Park,24,21,3,0
+1987,Manas National Park,100,10,31,21
+2015,Panna National Park,85,38,41,3
+2014,Satpura National Park,25,3,9,8
+2006,Bandhavgarh National Park,88,1,41,10
+1987,Ranthambore National Park,79,72,1,2
+1995,Tadoba Andhari Tiger Reserve,76,26,44,1
+2007,Dudhwa National Park,70,15,14,37
+2018,Mudumalai National Park,48,8,14,5
+1994,Jim Corbett National Park,64,60,3,1
+2007,Kanha National Park,39,11,1,12
+1997,Manas National Park,97,93,4,0
+2014,Dudhwa National Park,93,25,43,10
+2015,Bandhavgarh National Park,15,14,1,0
+2014,Ranthambore National Park,64,14,15,2
+1990,Periyar National Park,37,37,0,0
+2016,Dudhwa National Park,4,1,3,0
+2016,Bandipur National Park,97,59,35,1
+2000,Kanha National Park,40,24,10,1
+2020,Tadoba Andhari Tiger Reserve,68,15,50,2
+2015,Sundarbans National Park,78,4,50,16
+2002,Bandhavgarh National Park,25,18,2,2
+2000,Bandipur National Park,86,13,70,2
+1995,Mudumalai National Park,28,1,26,1
+1988,Bandipur National Park,18,4,13,1
+1988,Ranthambore National Park,22,20,1,1
+1998,Sundarbans National Park,76,21,25,27
+2016,Periyar National Park,13,7,3,2
+2002,Jim Corbett National Park,54,15,36,3
+2005,Sundarbans National Park,60,6,7,20
+2011,Sariska Tiger Reserve,21,13,5,2
+2009,Bandipur National Park,78,72,6,0
+2008,Manas National Park,86,41,20,5
+2002,Kaziranga National Park,32,20,12,0
+2009,Tadoba Andhari Tiger Reserve,93,46,25,11
+2002,Manas National Park,21,20,1,0
+2016,Panna National Park,45,15,12,7
+1985,Kaziranga National Park,97,97,0,0
+2015,Kaziranga National Park,72,11,41,7
+1985,Satpura National Park,7,5,1,1
+2002,Kaziranga National Park,91,81,7,1
+2018,Periyar National Park,33,21,7,3
+2013,Sundarbans National Park,82,50,27,2
+2004,Ranthambore National Park,26,12,4,2
+2003,Periyar National Park,28,6,21,1
+1989,Kaziranga National Park,45,18,21,1
+2003,Panna National Park,70,33,5,27
+2000,Sundarbans National Park,20,12,5,2
+1997,Pench National Park,43,30,1,10
+2007,Dudhwa National Park,42,42,0,0
+1985,Dudhwa National Park,72,13,47,8
+2005,Mudumalai National Park,45,8,37,0
+1989,Dudhwa National Park,68,1,13,18
+1997,Kanha National Park,65,50,7,2
+2015,Mudumalai National Park,84,50,11,6
+2003,Periyar National Park,51,15,27,1
+2020,Pench National Park,58,29,5,3
+2017,Periyar National Park,85,30,43,9
+2002,Pench National Park,27,17,3,2
+1999,Dudhwa National Park,25,1,11,7
+2020,Dudhwa National Park,84,82,1,1
+2010,Bandhavgarh National Park,43,27,5,11
+1998,Kaziranga National Park,65,14,4,22
+1988,Jim Corbett National Park,95,22,19,40
+2006,Ranthambore National Park,45,45,0,0
+2010,Sariska Tiger Reserve,68,45,6,17
+2020,Jim Corbett National Park,36,5,17,1
+2018,Kanha National Park,53,12,37,4
+1985,Bandipur National Park,99,44,33,8
+2010,Pench National Park,95,9,16,32
+2002,Ranthambore National Park,82,76,2,1
+1989,Bandipur National Park,15,15,0,0
+2010,Tadoba Andhari Tiger Reserve,32,9,14,1
+2002,Kaziranga National Park,33,33,0,0
+2005,Sariska Tiger Reserve,20,8,2,2
+2005,Bandhavgarh National Park,86,32,3,15
+1990,Panna National Park,37,37,0,0
+1997,Tadoba Andhari Tiger Reserve,81,32,1,34
+1996,Mudumalai National Park,13,8,5,0
+2019,Mudumalai National Park,42,22,4,5
+2012,Satpura National Park,18,9,1,1
+1998,Kanha National Park,9,5,2,2
+1995,Jim Corbett National Park,93,73,18,2
+1991,Sariska Tiger Reserve,50,38,8,3
+1991,Dudhwa National Park,18,18,0,0
+1987,Dudhwa National Park,32,27,5,0
+1988,Ranthambore National Park,11,5,5,1
+2012,Bandhavgarh National Park,35,18,6,1
+2014,Jim Corbett National Park,56,5,36,1
+2018,Satpura National Park,81,78,2,1
+2019,Kaziranga National Park,68,54,7,7
+2011,Sundarbans National Park,24,24,0,0
+2014,Panna National Park,51,18,21,4
+2001,Bandipur National Park,9,5,2,1
+2011,Tadoba Andhari Tiger Reserve,43,33,4,5
+2009,Pench National Park,80,52,21,3
+1996,Jim Corbett National Park,53,43,3,6
+1985,Bandhavgarh National Park,93,69,6,1
+2005,Dudhwa National Park,40,23,10,4
+1998,Sariska Tiger Reserve,95,54,29,7
+2000,Panna National Park,82,67,4,8
+2017,Bandipur National Park,27,22,5,0
+1992,Panna National Park,56,38,2,4
+2016,Bandhavgarh National Park,91,88,3,0
+1995,Dudhwa National Park,84,67,16,1
+2003,Dudhwa National Park,22,18,3,1
+2020,Sariska Tiger Reserve,66,43,23,0
+2016,Bandipur National Park,54,11,31,8
+1999,Bandhavgarh National Park,64,61,3,0
+2001,Panna National Park,60,19,9,6
+2004,Kaziranga National Park,50,50,0,0
+1991,Kaziranga National Park,96,37,58,1
+1992,Dudhwa National Park,20,3,13,3
+2001,Sundarbans National Park,11,11,0,0
+1992,Mudumalai National Park,49,43,3,3
+2019,Periyar National Park,21,10,7,4
+1993,Kaziranga National Park,72,26,33,8
+1987,Kaziranga National Park,73,7,35,21
+1991,Panna National Park,72,63,8,1
+1995,Ranthambore National Park,68,10,17,36
+2005,Periyar National Park,33,6,20,4
+2010,Bandipur National Park,51,19,14,7
+1986,Jim Corbett National Park,26,18,1,6
+1999,Satpura National Park,42,38,2,1
+1994,Sariska Tiger Reserve,100,40,47,4
+2003,Pench National Park,88,57,5,22
+2014,Ranthambore National Park,15,6,2,3
+1998,Panna National Park,78,6,56,9
+1993,Mudumalai National Park,7,1,5,1
+2005,Kaziranga National Park,94,3,48,36
+1985,Sundarbans National Park,54,25,16,2
+1991,Tadoba Andhari Tiger Reserve,54,27,9,14
+1999,Kanha National Park,43,15,15,1
+1994,Satpura National Park,23,13,7,1
+2018,Pench National Park,4,1,1,1
+1998,Tadoba Andhari Tiger Reserve,50,43,6,1
+1999,Ranthambore National Park,22,6,15,1
+2005,Kanha National Park,90,11,17,43
+2001,Panna National Park,64,43,11,2
+2003,Kanha National Park,100,81,16,2
+1997,Kaziranga National Park,3,3,0,0
+1989,Pench National Park,100,36,2,22
+2001,Bandhavgarh National Park,54,45,9,0
+2018,Pench National Park,38,4,4,22
+2010,Kanha National Park,61,41,10,5
+1997,Periyar National Park,76,64,12,0
+1987,Mudumalai National Park,51,10,16,4
+2016,Kanha National Park,91,75,8,4
+2007,Dudhwa National Park,59,4,41,1
+2017,Ranthambore National Park,53,48,4,1
+2018,Tadoba Andhari Tiger Reserve,78,44,12,21
+2018,Kanha National Park,91,85,4,2
+1997,Mudumalai National Park,32,4,26,2
+1998,Ranthambore National Park,6,1,4,1
+2005,Sundarbans National Park,6,6,0,0
+2018,Satpura National Park,47,34,2,1
+1985,Bandipur National Park,14,8,6,0
+1994,Sariska Tiger Reserve,29,16,10,2
+1998,Kaziranga National Park,50,21,17,1
+2013,Bandhavgarh National Park,24,22,2,0
+1988,Kaziranga National Park,27,1,19,3
+1995,Tadoba Andhari Tiger Reserve,8,3,5,0
+2009,Sundarbans National Park,88,13,53,10
+2006,Sariska Tiger Reserve,87,24,59,3
+2009,Satpura National Park,31,10,19,1
+2009,Pench National Park,87,13,44,9
+2010,Sariska Tiger Reserve,61,20,25,4
+2011,Jim Corbett National Park,90,49,16,21
+2003,Periyar National Park,59,52,4,2
+2010,Panna National Park,93,12,33,20
+2012,Manas National Park,27,10,3,4
+2018,Tadoba Andhari Tiger Reserve,10,3,7,0
+2012,Kaziranga National Park,77,63,1,12
+1985,Tadoba Andhari Tiger Reserve,55,15,3,24
+2013,Satpura National Park,96,76,16,4
+2003,Manas National Park,29,11,1,9
+2015,Satpura National Park,90,5,39,10
+1995,Bandipur National Park,88,10,50,21
+2005,Bandhavgarh National Park,37,24,8,5
+2003,Panna National Park,39,15,4,4
+1998,Kanha National Park,70,49,18,3
+2005,Dudhwa National Park,72,43,16,12
+1986,Bandhavgarh National Park,2,1,1,0
+1993,Jim Corbett National Park,24,24,0,0
+1995,Panna National Park,83,6,34,7
+2017,Bandipur National Park,2,2,0,0
+2016,Kaziranga National Park,10,2,6,2
+2014,Dudhwa National Park,14,12,2,0
+1995,Satpura National Park,53,36,10,6
+2011,Panna National Park,36,14,5,9
+2002,Kaziranga National Park,78,33,27,6
+1995,Kaziranga National Park,48,30,5,4
+1987,Panna National Park,80,76,1,3
+2012,Kaziranga National Park,81,52,14,7
+2007,Periyar National Park,33,13,6,4
+2015,Pench National Park,71,7,16,35
+1988,Pench National Park,62,60,2,0
+2003,Manas National Park,57,2,21,27
+1991,Kaziranga National Park,59,5,8,37
+1992,Tadoba Andhari Tiger Reserve,90,31,47,6
+1986,Kaziranga National Park,76,42,14,5
+2011,Sundarbans National Park,2,1,1,0
+2012,Ranthambore National Park,40,19,1,16
+1993,Periyar National Park,26,13,8,3
+2012,Dudhwa National Park,42,26,12,3
+2016,Bandhavgarh National Park,48,22,26,0
+2005,Mudumalai National Park,26,19,1,6
+1985,Periyar National Park,79,53,10,10
+1993,Kaziranga National Park,13,5,5,2
+2004,Sariska Tiger Reserve,63,12,34,16
+2017,Bandhavgarh National Park,90,28,44,4
+2020,Kaziranga National Park,55,44,9,2
+2000,Kanha National Park,91,3,40,30
+1991,Mudumalai National Park,15,7,5,2
+2008,Sundarbans National Park,4,3,1,0
+1988,Panna National Park,48,30,4,4
+2000,Bandipur National Park,45,14,3,2
+1985,Sariska Tiger Reserve,44,34,4,6
+2007,Periyar National Park,14,10,4,0
+1999,Mudumalai National Park,9,2,7,0
+1993,Kanha National Park,71,25,19,15
+2016,Sundarbans National Park,12,10,1,1
+2005,Pench National Park,39,22,1,15
+1985,Pench National Park,82,52,13,6
+1990,Satpura National Park,67,13,9,22
+2016,Kanha National Park,64,23,25,15
+1991,Tadoba Andhari Tiger Reserve,19,4,12,3
+2001,Periyar National Park,6,3,1,1
+1993,Sariska Tiger Reserve,51,7,8,30
+2008,Satpura National Park,100,34,12,53
+1997,Sariska Tiger Reserve,8,7,1,0
+2009,Kanha National Park,66,25,27,10
+2008,Kaziranga National Park,36,23,4,8
+1995,Sundarbans National Park,80,63,4,9
+2017,Tadoba Andhari Tiger Reserve,29,23,2,1
+2012,Tadoba Andhari Tiger Reserve,85,61,20,4
+2016,Kanha National Park,57,33,1,15
+2009,Panna National Park,32,8,24,0
+2010,Satpura National Park,10,2,6,1
+1995,Manas National Park,81,1,19,30
+2012,Ranthambore National Park,8,4,4,0
+1994,Sundarbans National Park,91,3,74,7
+2005,Bandipur National Park,37,5,20,5
+2000,Kaziranga National Park,2,1,1,0
+2020,Sariska Tiger Reserve,48,37,2,7
+2000,Kaziranga National Park,84,40,34,4
+2018,Kanha National Park,53,48,2,1
+2012,Panna National Park,54,3,16,1
+1991,Periyar National Park,98,68,4,9
+2011,Ranthambore National Park,18,7,9,2
+2011,Periyar National Park,58,57,1,0
+1987,Ranthambore National Park,93,37,36,8
+2001,Mudumalai National Park,14,12,2,0
+1991,Sundarbans National Park,98,62,3,25
+1995,Kaziranga National Park,42,40,1,1
+2018,Bandipur National Park,50,39,1,3
+2008,Sariska Tiger Reserve,25,13,7,3
+2014,Ranthambore National Park,81,37,12,3
+2020,Jim Corbett National Park,37,20,9,2
+2017,Panna National Park,55,52,3,0
+2009,Manas National Park,69,33,16,20
+2016,Bandhavgarh National Park,64,12,47,3
+2011,Bandhavgarh National Park,29,9,13,1
+2006,Jim Corbett National Park,16,8,6,1
+2003,Mudumalai National Park,9,5,1,2
+2017,Bandhavgarh National Park,91,58,15,14
+1998,Mudumalai National Park,99,20,27,46
+2019,Sundarbans National Park,92,42,38,7
+2019,Sariska Tiger Reserve,35,4,17,2
+2014,Sundarbans National Park,24,18,5,1
+2018,Panna National Park,89,33,56,0
+2002,Kaziranga National Park,40,17,5,15
+1986,Mudumalai National Park,31,4,21,5
+2000,Kaziranga National Park,29,24,2,1
+2013,Dudhwa National Park,2,2,0,0
+1995,Mudumalai National Park,82,53,17,12
+1994,Dudhwa National Park,17,2,4,11
+2012,Kanha National Park,65,48,2,4
+1992,Sariska Tiger Reserve,8,1,5,2
+1989,Panna National Park,79,46,7,17
+2014,Jim Corbett National Park,5,3,1,1
+2011,Tadoba Andhari Tiger Reserve,23,8,11,3
+1994,Mudumalai National Park,36,9,27,0
+2012,Periyar National Park,28,16,11,1
+2009,Dudhwa National Park,37,19,11,3
+1993,Satpura National Park,46,40,1,5
+2013,Pench National Park,17,2,11,4
+1985,Sariska Tiger Reserve,70,15,36,1
+2001,Mudumalai National Park,57,32,17,1
+1987,Sundarbans National Park,49,19,29,1
+1989,Ranthambore National Park,43,42,1,0
+1994,Dudhwa National Park,93,31,62,0
+2020,Mudumalai National Park,89,38,27,6
+1988,Ranthambore National Park,28,11,14,2
+1990,Jim Corbett National Park,80,40,25,1
+2019,Dudhwa National Park,17,4,7,5
+2017,Sundarbans National Park,25,2,3,13
+1998,Satpura National Park,24,7,7,6
+1993,Dudhwa National Park,15,12,2,1
+2012,Dudhwa National Park,93,78,8,5
+2012,Jim Corbett National Park,13,10,1,1
+2003,Kanha National Park,23,14,5,1
+2014,Sariska Tiger Reserve,78,7,30,5
+2019,Tadoba Andhari Tiger Reserve,86,37,23,3
+2012,Bandhavgarh National Park,35,25,2,5
+1986,Satpura National Park,22,7,10,1
+2003,Manas National Park,24,19,3,2
+1998,Pench National Park,20,5,5,2
+1988,Sundarbans National Park,79,32,12,18
+1999,Kanha National Park,91,88,2,1
+1986,Panna National Park,87,71,11,4
+2020,Mudumalai National Park,48,33,4,7
+1992,Jim Corbett National Park,76,59,13,2
+1992,Kaziranga National Park,57,53,4,0
+2006,Kanha National Park,64,36,14,14
+2004,Jim Corbett National Park,17,7,7,2
+2001,Sundarbans National Park,96,45,17,13
+2018,Jim Corbett National Park,78,77,1,0
+1986,Satpura National Park,58,27,1,1
+2019,Satpura National Park,5,2,1,1
+2005,Panna National Park,3,2,1,0
+1998,Ranthambore National Park,29,28,1,0
+1994,Satpura National Park,25,1,23,1
+1997,Panna National Park,46,42,1,3
+2009,Dudhwa National Park,24,21,1,1
+1992,Periyar National Park,71,1,17,33
+1991,Pench National Park,40,21,10,8
+2002,Jim Corbett National Park,51,48,3,0
+2013,Tadoba Andhari Tiger Reserve,83,73,3,5
+1995,Sundarbans National Park,51,48,1,1
+1992,Sundarbans National Park,97,51,8,7
+1998,Sariska Tiger Reserve,83,78,2,3
+2017,Sariska Tiger Reserve,8,3,4,1
+2017,Periyar National Park,68,46,9,5
+1988,Mudumalai National Park,3,2,1,0
+1992,Pench National Park,32,26,6,0
+2001,Bandhavgarh National Park,35,4,24,5
+2006,Sundarbans National Park,59,55,1,1
+1992,Kaziranga National Park,12,1,10,1
+2009,Kanha National Park,27,27,0,0
+2000,Mudumalai National Park,9,8,1,0
+2014,Panna National Park,98,8,15,47
+1989,Tadoba Andhari Tiger Reserve,47,21,13,11
+2012,Panna National Park,42,8,8,15
+2007,Mudumalai National Park,29,6,23,0
+1985,Sundarbans National Park,1,1,0,0
+2016,Manas National Park,25,18,6,1
+2010,Bandipur National Park,10,8,2,0
+1997,Kanha National Park,17,3,11,1
+1994,Bandipur National Park,88,36,10,37
+2017,Jim Corbett National Park,78,73,2,2
+2009,Kanha National Park,57,49,6,2
+2007,Bandhavgarh National Park,49,9,7,17
+1989,Bandhavgarh National Park,8,8,0,0
+2013,Kaziranga National Park,97,84,11,1
+2003,Satpura National Park,24,14,7,1
+2009,Kaziranga National Park,97,88,5,2
+2019,Sundarbans National Park,95,60,21,1
+1994,Pench National Park,32,28,1,1
+2012,Panna National Park,46,10,11,3
+1999,Jim Corbett National Park,99,93,5,1
+2013,Mudumalai National Park,9,8,1,0
+2020,Panna National Park,25,16,9,0
+2009,Periyar National Park,25,2,4,18
+2011,Bandipur National Park,71,34,17,14
+2017,Sundarbans National Park,65,14,34,7
+1988,Ranthambore National Park,58,32,21,2
+1992,Kanha National Park,5,1,4,0
+1994,Mudumalai National Park,59,37,11,6
+1988,Sundarbans National Park,90,57,1,17
+1985,Periyar National Park,73,63,4,5
+1999,Mudumalai National Park,49,9,28,2
+1997,Bandipur National Park,54,2,15,36
+1997,Tadoba Andhari Tiger Reserve,91,17,5,47
+2007,Kanha National Park,80,74,2,1
+1999,Panna National Park,14,2,10,1
+2010,Tadoba Andhari Tiger Reserve,38,23,11,3
+2005,Panna National Park,89,56,31,1
+2005,Tadoba Andhari Tiger Reserve,6,1,3,1
+2009,Mudumalai National Park,91,19,72,0
+2006,Bandhavgarh National Park,72,43,25,1
+2020,Panna National Park,42,30,9,3
+2002,Manas National Park,18,12,1,3
+2005,Kaziranga National Park,40,30,7,2
+2000,Tadoba Andhari Tiger Reserve,11,2,2,6
+1994,Manas National Park,21,9,1,8
+1991,Bandhavgarh National Park,23,18,3,2
+1987,Satpura National Park,49,9,20,19
+1985,Pench National Park,82,80,2,0
+2011,Jim Corbett National Park,10,6,2,2
+2017,Kanha National Park,1,1,0,0
+2019,Bandipur National Park,40,16,22,1
+1993,Panna National Park,66,24,38,4
+1990,Sariska Tiger Reserve,82,37,9,10
+2010,Manas National Park,9,8,1,0
+2007,Periyar National Park,98,83,8,1
+1989,Manas National Park,73,49,10,12
+1991,Tadoba Andhari Tiger Reserve,66,33,23,5
+2005,Dudhwa National Park,6,2,1,2
+1985,Kaziranga National Park,45,7,19,4
+1985,Ranthambore National Park,40,10,3,19
+2014,Mudumalai National Park,22,16,5,1
+2002,Tadoba Andhari Tiger Reserve,90,15,15,43
+2006,Dudhwa National Park,29,25,2,2
+2002,Bandipur National Park,18,11,5,1
+1986,Jim Corbett National Park,67,44,5,2
+1991,Panna National Park,99,59,35,4
+2010,Bandipur National Park,61,3,57,1
+1993,Satpura National Park,71,65,1,4
+2011,Kanha National Park,75,53,17,1
+2005,Bandhavgarh National Park,2,2,0,0
+2018,Kaziranga National Park,17,17,0,0
+1994,Jim Corbett National Park,18,7,4,2
+2008,Dudhwa National Park,83,55,23,5
+2001,Tadoba Andhari Tiger Reserve,92,9,24,45
+1995,Satpura National Park,86,63,15,3
+2014,Sundarbans National Park,73,12,6,38
+2015,Sundarbans National Park,79,68,6,5
+1991,Jim Corbett National Park,34,3,10,15
+1985,Pench National Park,18,5,2,1
+1987,Mudumalai National Park,64,28,29,4
+1989,Kanha National Park,6,2,3,1
+2001,Manas National Park,82,80,2,0
+2000,Dudhwa National Park,43,31,1,9
+2014,Ranthambore National Park,17,7,9,1
+2007,Bandhavgarh National Park,45,14,18,5
+2004,Bandipur National Park,46,35,1,3
+2011,Panna National Park,19,5,13,1
+2012,Jim Corbett National Park,62,59,2,1
+2016,Kaziranga National Park,2,2,0,0
+2016,Sariska Tiger Reserve,48,13,5,6
+2011,Kanha National Park,14,4,6,2
+1988,Manas National Park,46,42,4,0
+2017,Bandipur National Park,28,18,8,2
+1985,Ranthambore National Park,21,5,6,5
+1995,Bandipur National Park,12,4,3,5
+2003,Ranthambore National Park,83,51,16,4
+1994,Sariska Tiger Reserve,49,1,38,2
+1985,Sundarbans National Park,62,5,38,15
+1987,Ranthambore National Park,11,2,6,2
+1997,Bandhavgarh National Park,29,9,1,14
+1986,Bandhavgarh National Park,100,45,26,5
+2015,Periyar National Park,11,11,0,0
+1990,Pench National Park,13,4,5,1
+2006,Panna National Park,38,6,23,2
+2009,Bandipur National Park,3,1,2,0
+1994,Jim Corbett National Park,86,62,16,5
+2014,Kaziranga National Park,38,15,19,1
+2015,Pench National Park,19,14,2,3
+2013,Panna National Park,26,17,1,2
+2011,Sariska Tiger Reserve,97,85,8,1
+1991,Ranthambore National Park,92,91,1,0
+2020,Bandipur National Park,12,12,0,0
+2017,Jim Corbett National Park,84,24,43,16
+1989,Periyar National Park,45,37,1,6
+2003,Bandhavgarh National Park,93,65,3,12
+2017,Bandipur National Park,74,22,46,3
+1996,Satpura National Park,90,51,26,3
+2012,Bandhavgarh National Park,51,41,8,1
+2003,Tadoba Andhari Tiger Reserve,31,25,1,3
+1987,Kaziranga National Park,70,47,22,1
+2007,Kanha National Park,83,45,6,18
+1994,Kaziranga National Park,5,2,3,0
+2008,Manas National Park,1,1,0,0
+2019,Panna National Park,89,32,50,7
+2002,Dudhwa National Park,14,7,6,1
+1987,Sariska Tiger Reserve,51,22,14,5
+2000,Bandipur National Park,28,2,22,4
+2000,Satpura National Park,30,4,20,4
+2019,Kaziranga National Park,71,45,12,2
+2009,Sariska Tiger Reserve,26,14,1,11
+2010,Dudhwa National Park,73,1,19,10
+2005,Periyar National Park,8,8,0,0
+1995,Kanha National Park,61,52,9,0
+2003,Tadoba Andhari Tiger Reserve,44,5,27,7
+2019,Tadoba Andhari Tiger Reserve,41,36,5,0
+1987,Kaziranga National Park,40,33,3,1
+2014,Periyar National Park,26,6,19,1
+2000,Satpura National Park,42,10,25,5
+1986,Satpura National Park,68,26,13,4
+2015,Periyar National Park,68,68,0,0
+2006,Kaziranga National Park,40,39,1,0
+2014,Pench National Park,31,3,12,15
+2007,Manas National Park,20,8,1,7
+1989,Satpura National Park,80,74,6,0
+1992,Ranthambore National Park,47,9,1,4
+2018,Ranthambore National Park,32,25,2,5
+2017,Ranthambore National Park,50,22,5,16
+2020,Ranthambore National Park,16,6,4,4
+1990,Dudhwa National Park,15,9,2,4
+1990,Ranthambore National Park,58,52,2,4
+2004,Kanha National Park,94,38,2,35
+1989,Kanha National Park,14,1,6,5
+1993,Kaziranga National Park,63,45,1,5
+1996,Kanha National Park,82,55,22,4
+1993,Bandhavgarh National Park,73,60,3,3
+2018,Bandipur National Park,74,55,2,15
+1989,Dudhwa National Park,67,21,38,7
+2014,Ranthambore National Park,3,2,1,0
+1989,Kanha National Park,84,27,36,9
+1986,Tadoba Andhari Tiger Reserve,94,24,37,2
+2015,Manas National Park,49,26,12,8
+2019,Dudhwa National Park,40,11,19,7
+2004,Manas National Park,30,15,9,4
+2004,Periyar National Park,37,7,16,7
+1998,Tadoba Andhari Tiger Reserve,46,16,8,4
+2012,Dudhwa National Park,34,23,10,1
+2016,Mudumalai National Park,95,16,74,5
+1987,Sundarbans National Park,42,29,13,0
+2010,Bandipur National Park,87,4,40,8
+1994,Sariska Tiger Reserve,18,5,3,7
+2008,Panna National Park,65,25,19,13
+1992,Dudhwa National Park,9,8,1,0
+1995,Panna National Park,5,4,1,0
+1988,Jim Corbett National Park,65,39,14,2
+2019,Dudhwa National Park,69,28,34,1
+2016,Sariska Tiger Reserve,75,8,65,1
+2020,Jim Corbett National Park,31,9,3,10
+1999,Pench National Park,27,11,1,11
+2004,Panna National Park,30,25,1,1
+2011,Panna National Park,31,22,3,5
+1995,Pench National Park,18,9,9,0
+2010,Mudumalai National Park,33,1,27,3
+2009,Panna National Park,16,10,6,0
+2001,Satpura National Park,43,7,1,23
+1989,Sundarbans National Park,60,48,2,5
+1987,Satpura National Park,35,15,7,7
+2008,Periyar National Park,19,14,2,1
+1989,Periyar National Park,29,13,5,4
+2004,Panna National Park,6,3,1,1
+2005,Jim Corbett National Park,60,32,4,19
+2014,Satpura National Park,95,78,11,4
+2018,Ranthambore National Park,8,6,1,1
+2002,Bandhavgarh National Park,76,7,40,19
+1991,Panna National Park,62,25,4,24
+1989,Satpura National Park,36,4,25,2
+1994,Mudumalai National Park,76,48,6,15
+1999,Kaziranga National Park,96,7,70,12
+1985,Dudhwa National Park,31,29,1,1
+2000,Periyar National Park,99,13,54,10
+2017,Sariska Tiger Reserve,91,67,7,6
+1993,Dudhwa National Park,23,5,12,2
+2008,Kanha National Park,42,4,26,4
+2003,Tadoba Andhari Tiger Reserve,99,83,15,1
+2018,Mudumalai National Park,2,1,1,0
+1993,Bandhavgarh National Park,51,4,17,6
+1985,Ranthambore National Park,78,11,18,9
+2009,Sariska Tiger Reserve,69,60,8,1
+1989,Jim Corbett National Park,82,77,5,0
+1985,Panna National Park,3,1,1,1
+2017,Dudhwa National Park,53,25,21,7
+2003,Kanha National Park,32,28,2,2
+2008,Tadoba Andhari Tiger Reserve,10,6,3,1
+2004,Pench National Park,18,2,8,8
+2011,Satpura National Park,58,23,22,1
+2018,Kanha National Park,53,36,7,8
+1992,Mudumalai National Park,7,1,2,4
+2013,Mudumalai National Park,89,16,67,2
+2006,Kaziranga National Park,89,52,34,2
+1994,Bandhavgarh National Park,48,10,31,1
+2009,Sariska Tiger Reserve,28,24,1,3
+2000,Satpura National Park,38,21,4,5
+2009,Manas National Park,50,3,9,27
+1997,Panna National Park,73,37,3,11
+2004,Jim Corbett National Park,29,18,5,4
+1987,Kanha National Park,74,21,47,2
+1998,Kanha National Park,37,5,4,6
+1997,Ranthambore National Park,4,3,1,0
+2017,Sundarbans National Park,32,29,1,2
+1987,Satpura National Park,87,54,33,0
+2014,Sariska Tiger Reserve,72,30,2,39
+1998,Bandipur National Park,29,16,11,1
+2018,Dudhwa National Park,73,38,6,15
+1990,Sariska Tiger Reserve,19,19,0,0
+1987,Sundarbans National Park,58,23,20,12
+1986,Manas National Park,70,31,18,14
+1999,Bandipur National Park,96,32,14,36
+1994,Pench National Park,88,41,46,1
+2015,Manas National Park,5,2,3,0
+1995,Kaziranga National Park,37,20,10,1
+2003,Ranthambore National Park,49,2,33,3
+2013,Sundarbans National Park,22,5,13,3
+2016,Kaziranga National Park,55,47,1,3
+1988,Panna National Park,45,34,7,1
+1988,Manas National Park,9,4,2,2
+2020,Bandhavgarh National Park,48,27,17,4
+2020,Pench National Park,38,5,19,8
+1996,Satpura National Park,5,1,3,1
+2009,Dudhwa National Park,84,28,17,19
+2000,Pench National Park,55,55,0,0
+2001,Mudumalai National Park,16,8,6,2
+1990,Sundarbans National Park,25,19,1,5
+1996,Ranthambore National Park,16,7,9,0
+2013,Satpura National Park,16,5,3,5
+2016,Kanha National Park,68,54,6,6
+2017,Sundarbans National Park,58,42,3,8
+1994,Bandhavgarh National Park,40,32,8,0
+2018,Dudhwa National Park,12,1,2,8
+2003,Manas National Park,4,4,0,0
+1989,Kaziranga National Park,37,18,17,1
+2012,Satpura National Park,61,9,15,2
+1991,Pench National Park,32,28,2,2
+2003,Kaziranga National Park,100,43,55,1
+1986,Jim Corbett National Park,57,40,1,13
+1990,Jim Corbett National Park,16,1,15,0
+1998,Dudhwa National Park,45,29,8,8
+2006,Sundarbans National Park,97,41,35,21
+1998,Bandhavgarh National Park,52,8,29,14
+1995,Bandhavgarh National Park,6,1,4,1
+1986,Kaziranga National Park,78,17,58,3
+2010,Pench National Park,62,55,5,1
+1985,Sariska Tiger Reserve,60,2,58,0
+2005,Dudhwa National Park,26,26,0,0
+1986,Bandipur National Park,91,3,67,1
+1986,Tadoba Andhari Tiger Reserve,78,23,41,14
+1997,Panna National Park,69,43,7,13
+1985,Panna National Park,71,37,32,1
+1986,Kanha National Park,4,3,1,0
+2010,Jim Corbett National Park,60,43,16,1
+1989,Ranthambore National Park,64,30,23,1
+1987,Sariska Tiger Reserve,59,6,39,14
+1996,Sundarbans National Park,27,27,0,0
+2001,Periyar National Park,48,30,6,11
+1995,Sariska Tiger Reserve,45,42,3,0
+1988,Tadoba Andhari Tiger Reserve,71,16,44,8
+1993,Jim Corbett National Park,42,35,5,1
+2008,Tadoba Andhari Tiger Reserve,47,11,17,5
+2020,Jim Corbett National Park,2,2,0,0
+2004,Panna National Park,60,44,10,1
+1997,Panna National Park,20,12,3,1
+2014,Sariska Tiger Reserve,36,36,0,0
+2014,Bandhavgarh National Park,98,85,13,0
+2017,Jim Corbett National Park,47,42,5,0
+2014,Ranthambore National Park,20,6,13,1
+2015,Manas National Park,100,15,17,14
+1996,Ranthambore National Park,78,58,9,10
+1990,Dudhwa National Park,54,2,33,19
+2005,Sundarbans National Park,67,9,28,9
+1996,Jim Corbett National Park,12,8,3,1
+2017,Bandhavgarh National Park,69,69,0,0
+2006,Tadoba Andhari Tiger Reserve,75,70,3,1
+2019,Pench National Park,22,1,9,6
+1988,Kanha National Park,43,36,6,1
+1987,Kaziranga National Park,63,60,2,1
+2011,Manas National Park,74,9,43,3
+1993,Sundarbans National Park,40,20,2,9
+2000,Pench National Park,7,4,2,1
+1992,Sariska Tiger Reserve,15,6,8,1
+1990,Kanha National Park,57,15,24,3
+2010,Dudhwa National Park,23,5,6,4
+2004,Sariska Tiger Reserve,86,1,70,11
+2008,Dudhwa National Park,23,12,7,2
+1990,Pench National Park,11,5,4,1
+2007,Ranthambore National Park,36,26,9,1
+1986,Panna National Park,61,33,17,1
+2017,Manas National Park,15,9,3,2
+2020,Pench National Park,93,71,20,2
+2013,Mudumalai National Park,42,1,40,1
+1986,Kanha National Park,48,39,2,4
+2008,Bandipur National Park,96,33,46,14
+1996,Tadoba Andhari Tiger Reserve,60,27,17,2
+1993,Dudhwa National Park,92,36,52,4
+1994,Ranthambore National Park,22,3,10,4
+2005,Mudumalai National Park,2,2,0,0
+2002,Dudhwa National Park,76,3,21,12
+2007,Kaziranga National Park,12,5,1,3
+1992,Jim Corbett National Park,54,34,2,8
+2004,Periyar National Park,84,84,0,0
+2006,Manas National Park,7,7,0,0
+2001,Kaziranga National Park,94,51,17,7
+2004,Mudumalai National Park,40,24,2,8
+2004,Dudhwa National Park,65,42,1,8
+1996,Mudumalai National Park,10,1,7,1
+2008,Tadoba Andhari Tiger Reserve,10,3,7,0
+1991,Sariska Tiger Reserve,84,59,2,4
+2017,Sariska Tiger Reserve,51,9,7,9
+1996,Tadoba Andhari Tiger Reserve,78,76,2,0
+2003,Bandipur National Park,23,21,2,0
+1986,Bandhavgarh National Park,50,49,1,0
+1987,Manas National Park,18,10,2,5
+2006,Ranthambore National Park,8,5,2,1
+1988,Bandipur National Park,8,2,5,1
+2010,Satpura National Park,60,11,47,1
+1985,Mudumalai National Park,7,7,0,0
+2012,Bandhavgarh National Park,88,64,8,8
+2013,Bandhavgarh National Park,28,9,1,15
+1991,Bandhavgarh National Park,14,6,4,4
+2010,Sundarbans National Park,82,72,6,1
+1994,Dudhwa National Park,5,3,2,0
+2016,Dudhwa National Park,4,2,1,1
+1990,Mudumalai National Park,42,38,4,0
+1991,Tadoba Andhari Tiger Reserve,52,43,5,4
+1988,Mudumalai National Park,48,3,15,15
+1996,Jim Corbett National Park,12,4,4,4
+1998,Bandhavgarh National Park,45,36,7,1
+2009,Sundarbans National Park,47,34,8,2
+1995,Periyar National Park,60,56,4,0
+2009,Jim Corbett National Park,17,7,1,1
+1996,Ranthambore National Park,50,4,30,16
+2012,Satpura National Park,33,11,10,7
+2002,Sundarbans National Park,31,9,15,7
+2002,Sundarbans National Park,29,28,1,0
+2000,Dudhwa National Park,6,4,2,0
+1996,Ranthambore National Park,42,38,1,3
+2017,Sariska Tiger Reserve,41,40,1,0
+1999,Kaziranga National Park,57,39,7,1
+1994,Ranthambore National Park,47,29,12,4
+1987,Jim Corbett National Park,52,33,10,1
+1995,Panna National Park,89,2,2,81
+2012,Ranthambore National Park,90,82,2,1
+2020,Mudumalai National Park,79,65,5,9
+2019,Bandhavgarh National Park,76,26,2,22
+1990,Tadoba Andhari Tiger Reserve,62,59,2,1
+1997,Periyar National Park,15,1,6,3
+2007,Satpura National Park,100,2,33,16
+2019,Sundarbans National Park,84,30,41,5
+1988,Panna National Park,65,59,2,4
+2016,Periyar National Park,84,36,3,27
+2003,Panna National Park,87,50,30,4
+2009,Sariska Tiger Reserve,37,7,25,2
+1996,Satpura National Park,12,5,6,1
+1996,Periyar National Park,16,11,1,4
+2002,Kaziranga National Park,60,7,48,1
+2013,Kanha National Park,1,1,0,0
+1985,Periyar National Park,16,8,3,2
+2014,Sundarbans National Park,77,66,9,2
+2011,Bandhavgarh National Park,53,15,19,8
+2002,Manas National Park,6,1,1,3
+2008,Panna National Park,19,13,6,0
+1985,Bandhavgarh National Park,19,4,12,2
+1990,Tadoba Andhari Tiger Reserve,66,36,26,1
+2016,Satpura National Park,8,7,1,0
+2009,Sariska Tiger Reserve,20,8,5,6
+2006,Dudhwa National Park,95,1,93,1
+2009,Panna National Park,24,22,2,0
+2000,Sundarbans National Park,21,7,6,8
+1987,Sariska Tiger Reserve,38,26,9,2
+2012,Kaziranga National Park,17,7,7,1
+1997,Satpura National Park,70,37,2,31
+1995,Mudumalai National Park,33,29,4,0
+2002,Sundarbans National Park,64,41,19,2
+1997,Satpura National Park,59,12,45,1
+2007,Tadoba Andhari Tiger Reserve,10,5,1,4
+2011,Bandipur National Park,26,5,8,7
+1998,Satpura National Park,74,18,31,20
+1986,Tadoba Andhari Tiger Reserve,13,4,8,1
+1991,Satpura National Park,33,19,5,9
+1994,Ranthambore National Park,57,18,19,4
+1992,Sundarbans National Park,82,60,20,2
+2009,Pench National Park,35,26,8,1
+1987,Panna National Park,38,5,25,7
+2004,Mudumalai National Park,73,34,17,4
+2002,Sundarbans National Park,78,31,29,14
+1999,Kaziranga National Park,34,15,12,6
+2014,Manas National Park,33,16,14,3
+1988,Satpura National Park,10,8,2,0
+1985,Periyar National Park,11,6,3,1
+2010,Jim Corbett National Park,56,38,18,0
+1995,Pench National Park,56,33,3,14
+1986,Pench National Park,30,1,28,1
+2005,Bandhavgarh National Park,90,71,4,7
+1997,Manas National Park,41,23,16,2
+2014,Panna National Park,12,4,1,1
+2017,Bandipur National Park,92,5,54,4
+2002,Kaziranga National Park,39,12,14,6
+2013,Sariska Tiger Reserve,42,27,2,8
+2011,Ranthambore National Park,21,17,3,1
+2001,Satpura National Park,57,27,14,7
+1999,Kaziranga National Park,80,18,37,14
+1993,Panna National Park,91,40,38,11
+2000,Tadoba Andhari Tiger Reserve,35,8,6,7
+2009,Jim Corbett National Park,83,67,11,5
+1991,Jim Corbett National Park,53,35,3,15
+2014,Jim Corbett National Park,47,30,11,5
+1986,Dudhwa National Park,100,58,1,40
+1987,Sundarbans National Park,36,17,7,10
+1993,Bandhavgarh National Park,24,24,0,0
+2004,Kaziranga National Park,51,1,8,30
+2001,Sundarbans National Park,49,1,17,4
+2014,Jim Corbett National Park,57,43,7,6
+1989,Manas National Park,91,79,7,3
+1996,Ranthambore National Park,52,3,12,26
+2006,Kanha National Park,46,2,14,11
+2009,Periyar National Park,76,70,2,1
+2020,Sariska Tiger Reserve,4,4,0,0
+1996,Dudhwa National Park,84,56,8,14
+2016,Manas National Park,67,19,26,17
+2000,Satpura National Park,48,24,9,15
+2017,Kaziranga National Park,34,3,25,2
+1989,Tadoba Andhari Tiger Reserve,8,8,0,0
+1987,Kanha National Park,53,50,1,2
+2010,Bandipur National Park,90,51,16,2
+1993,Kanha National Park,60,16,7,12
+1993,Bandipur National Park,83,52,8,22
+1999,Panna National Park,82,43,30,3
+2012,Kanha National Park,44,23,6,3
+1986,Ranthambore National Park,42,13,15,9
+2002,Satpura National Park,80,74,5,1
+1987,Satpura National Park,79,70,6,1
+1991,Bandipur National Park,78,48,7,18
+1990,Tadoba Andhari Tiger Reserve,81,79,2,0
+1990,Periyar National Park,14,10,2,2
+1986,Sariska Tiger Reserve,40,13,15,3
+2020,Periyar National Park,68,54,4,9
+2013,Dudhwa National Park,15,4,7,1
